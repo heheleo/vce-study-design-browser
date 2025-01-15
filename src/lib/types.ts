@@ -1,7 +1,19 @@
+/**
+ * Describe the VCE study design for a subject.
+ */
 export interface SubjectUnits {
-	1: string;
-	2: string;
-	34: string;
+	/**
+	 * The unit 1 study design.
+	 */
+	1: UnitStudyDesign;
+	/**
+	 * The unit 2 study design.
+	 */
+	2: UnitStudyDesign;
+	/**
+	 * The units 3 and 4 study design.
+	 */
+	34: UnitStudyDesign;
 }
 
 /**
