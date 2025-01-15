@@ -47,6 +47,63 @@
             "time and duration including time and date specifications, conventions, schedules and timetables."
           ]
         }
+      ],
+      "outcomes": [
+        {
+          "knowledge": [
+            "integers, fractions, decimals, ratios, proportions, percentages and rates",
+            "place value, truncation and rounding, leading digit approximation and order of magnitude as powers of 10",
+            "numerals, symbols, number facts and operations and strategies for calculation",
+            "categorical and numerical data",
+            "methods of data collection and organisation",
+            "key features and conventions of diagrams, charts, tables and graphs",
+            "purposes for using different forms of data representation and types of data scales (categorical and numerical)",
+            "common measures of central tendency (mean, median, mode) and of spread (range, quartiles)",
+            "characteristics and properties of data sets and the shape of their distributions",
+            "terminology and language for description, comparison and analysis of data sets, graphs and summary statistics",
+            "cost structures and fees and interest for financial services such as savings, loans, debit and credit cards, purchase and payment services (including online payment systems and buy now-pay later systems)",
+            "financial systems and related calculations such as personal taxation, GST and superannuation",
+            "income payments and calculations such as casual versus permanent employment, rates of pay, pay scales and payslips",
+            "metric units for length, area, volume, capacity, time, mass, temperature and common derived units",
+            "meaning and conventions of different metric units, relative scale and conversions, including International System of Units (SI)",
+            "standard digital and analogue tools and instruments and scales",
+            "standard formulas for calculating length, area, surface area, volume and capacity"
+          ],
+          "skills": [
+            "make estimates and carry out relevant calculations using mental and by-hand methods",
+            "use technology effectively for accurate, reliable and efficient calculations",
+            "solve practical problems which require the use and application of a range of numerical computations involving integers, decimals, fractions, proportions, percentages, rates, powers and roots",
+            "check for accuracy and reasonableness of calculations and results",
+            "collect, organise, collate and represent categorical and numerical data",
+            "accurately read and interpret diagrams, charts, tables and graphs",
+            "summarise statistical data and determine commonly used measures of central tendency and of spread",
+            "describe, compare and analyse data sets and report on any trends, implications or limitations",
+            "read, interpret and perform calculations related to financial services such as with banking, utility bills and GST",
+            "demonstrate understanding and perform calculations related to personal financial services such as bank statements",
+            "demonstrate understandings and perform calculations of fees and interest charged by banks and other financial institutions in relation to amount borrowed, interest rate, time and risk",
+            "describe, calculate and interpret different income related taxes, payments and deductions and their impact on income, such as pay scales, personal tax, withholding tax, PAYE and PAYG",
+            "calculate and interpret length, area, surface area, volume, capacity and duration for a range of personal, societal or workplace measurement problems with use of estimation, rounding and approximation strategies",
+            "identify and use common metric and other relevant measurements",
+            "convert between a range of standard metric units",
+            "estimate and measure different quantities using appropriate measurement tools"
+          ]
+        },
+        {
+          "knowledge": [
+            "common uses and applications of mathematics in aspects of everyday life",
+            "relevant and appropriate mathematics in areas relating to study, work, social or personal contexts",
+            "common methods of presenting and communicating mathematics in everyday life, for example charts, graphs, maps, plans, tables, symbolic expressions and diagrams"
+          ],
+          "skills": [
+            "identify and recognise how mathematics is used in everyday situations and contexts, making connections between mathematics and the real world",
+            "extract the mathematics embedded in everyday situations and contexts and formulate what mathematics can be used to solve practical problems in both familiar and new contexts",
+            "represent the mathematical information in a form that is personally useful as an aid to problem-solving, such as a table, summary, chart, numeric or algebraic representation, physical model or sketch",
+            "undertake a range of mathematical tasks, applications and processes to solve practical problems, such as drawing, measuring, counting, estimating, calculating, generalising and modelling",
+            "use estimation and other assessment skills to check the outcomes and decide on the appropriate accuracy for the outcome",
+            "interpret results and outcomes of the application of mathematics in a context, including how appropriately and accurately they fit the situation, and to reflect on and evaluate the mathematics used and the outcomes obtained relative to personal, contextual and real-world implications",
+            "represent, communicate and discuss the results and outcomes of the application of mathematics in a range of contexts"
+          ]
+        }
       ]
     },
     "2": {
@@ -91,6 +148,62 @@
             "two-dimensional plans, models and diagrams of objects",
             "location, maps, directories and digital maps including birds-eye and street views",
             "routes and itineraries, including location and direction, speeds, distances and estimated travel times,\\"
+          ]
+        }
+      ],
+      "outcomes": [
+        {
+          "knowledge": [
+            "numerals, symbols, number facts and operations and strategies for calculation",
+            "basic conventions of formal mathematical terminology, notations and processes in relevant symbolic expressions and formulas",
+            "concepts of constant, pro-numeral, variable and formula",
+            "categorical and numerical data",
+            "common measures of central tendency (mean, median, mode) and simple measures of spread (range, quantiles, interquartile range)",
+            "characteristics and properties of data sets and their summary data and the shape of their distributions",
+            "terminology and language for description, comparison and analysis of data sets, graphs and summary statistics",
+            "cost structures and fees for products and services",
+            "factors that impact on personal income and informed spending choices such as age, advertising, scams and gambling",
+            "charges for services and utilities such as rent, gas and electricity",
+            "interest, repayments and relationship to amount borrowed, interest rates, time, CPI and risk",
+            "financial systems and related calculations such as student loan schemes (HECS-HELP and VET student loans)",
+            "names and properties of common geometric shapes and objects",
+            "language, symbols and conventions for geometric and spatial representation, including point, vertex, line, ray, angle, diagonal, edge, curve, perimeter, boundary, face, surface and solid",
+            "language, symbols and labelling and drawing conventions for diagrams, plans and models, including keys and scale",
+            "language, symbols, labelling and conventions for maps and location related diagrams and directories, including keys, scale, direction, distance, coordinates and grid references"
+          ],
+          "skills": [
+            "form estimates and carry out relevant calculations using mental and by-hand methods",
+            "develop simple formulas describing generalisations, patterns and relationships between real-life variables",
+            "solve practical problems using constants, symbols, variables, common formulas, expressions and equations",
+            "check for accuracy and reasonableness of calculations and results",
+            "accurately read and interpret diagrams, charts, tables and graphs for categorical and numerical data",
+            "summarise statistical data and calculate commonly used measures of central tendency and spread",
+            "describe, compare and analyse data sets and summary data and report on any trends, implications or limitations",
+            "read, interpret and perform calculations related to financial services such as products and services",
+            "compare products and services from an optimal spending perspective for services such as health care, insurance and internet provision",
+            "identify credit options to best manage finances to meet short, medium and long terms goals, such as credit cards, personal loans",
+            "describe, calculate and interpret different income related taxes, payments and deductions and their impact on income, such as student loan repayments, allowances, benefits and payments",
+            "describe the effect of life-stage factors on personal income sources and the different perspectives on informed spending choices",
+            "interpret and describe common shapes and objects using accurate and appropriate geometric and spatial language and conventions",
+            "create and modify simple diagrams, plans, maps or designs using drawing equipment and digital drawing packages",
+            "interpret diagrams, plans, maps and models and evaluate their accuracy",
+            "interpret information on maps to plan and describe travel routes, including use of navigational software and tools"
+          ]
+        },
+        {
+          "knowledge": [
+            "common uses and applications of mathematics in aspects of everyday life",
+            "relevant and appropriate mathematics in areas relating to study, work, social or personal contexts",
+            "common methods of presenting and communicating mathematics in everyday life, for example charts, graphs, maps, plans, tables, symbolic expressions and diagrams"
+          ],
+          "skills": [
+            "identify and recognise how mathematics is used in everyday situations and contexts, making connections between mathematics and the real world",
+            "extract the mathematics embedded in everyday situations and contexts and formulate what mathematics can be used to solve practical problems in both familiar and new contexts",
+            "represent the mathematical information in a form that is personally useful as an aid to problem-solving, such as a table, summary, chart, numeric or algebraic representation, physical model or sketch",
+            "undertake a range of mathematical tasks, applications and processes to solve practical problems, such as drawing, measuring, counting, estimating, calculating, generalising and modelling",
+            "use estimation and other assessment skills to check the outcomes and decide on the appropriate accuracy for the outcome",
+            "interpret results and outcomes of the application of mathematics in a context, including how appropriately and accurately they fit the situation and to reflect on and evaluate the mathematics used and the outcomes obtained relative to personal, contextual and real-world implications",
+            "represent, communicate and discuss the results and outcomes of the application of mathematics in\\"
           ]
         }
       ]
@@ -146,6 +259,301 @@
             "measurements and related quantities including derived quantities, metric and relevant non-metric measures",
             "conventions, properties and measurement of perimeter, area, surface area and volume of compound shapes and objects",
             "calibration and error in measurement, including tolerance, accuracy and precision."
+          ]
+        },
+        {
+          "name": "Data analysis, probability and statistics",
+          "number": 1,
+          "description": "Data analysis",
+          "points": [
+            "types of data",
+            "representation, display and description of the distributions of categorical variables: data tables, two-way frequency tables and their associated segmented bar charts",
+            "representation, display and description of the distributions of numerical variables: dot plots, stem plots, histograms; the use of a logarithmic (base 10) scale to display data ranging over several orders of magnitude and their interpretation in terms of powers of ten",
+            "use of the distribution(s) of one or more categorical or numerical variables to answer statistical questions",
+            "summary of the distributions of numerical variables; the five-number summary and boxplots (including the use of the lower fence (Q1 -- 1.5 × IQR) and upper fence (Q3 + 1.5 × IQR) to identify and display possible outliers); the sample mean and standard deviation and their use in comparing data distributions in terms of centre and spread",
+            "the normal model for bell-shaped distributions and the use of the 68--95--99.7% rule to estimate percentages and to give meaning to the standard deviation; standardised values ($z$-scores) and their use in comparing data values across distributions.",
+            "response and explanatory variables and their role in investigating associations between variables",
+            "contingency (two-way) frequency tables, their associated bar charts (including percentage segmented bar charts) and their use in identifying and describing associations between two categorical variables",
+            "back-to-back stem plots, parallel dot plots and boxplots and their use in identifying and describing associations between a numerical variable and a categorical variable",
+            "scatterplots and their use in identifying and qualitatively describing the association between two numerical variables in terms of direction (positive/negative), form (linear/non-linear) and strength (strong/moderate/weak)",
+            "answering statistical questions that require a knowledge of the associations between pairs of variables",
+            "Pearson correlation coefficient, $r$, and its calculation and interpretation",
+            "cause and effect; the difference between observation and experimentation when collecting data and the need for experimentation to definitively determine cause and effect.",
+            "least squares line of best fit $y = a + bx$, where $x$ represents the explanatory variable, and $y$ represents the response variable; the determination of the coefficients $a$ and$\\ b$ using technology, and the formulas $b = r\\ \\frac{s_{y}}{s_{x}}\\ \\ $and $a = \\overline{y} - b\\overline{x}$",
+            "modelling linear association between two numerical variables, including the:",
+            "identification of the explanatory and response variables",
+            "use of the least squares method to fit a linear model to the data",
+            "interpretation of the slope and intercepts of the least squares line in the context of the situation being modelled, including:",
+            "use of the rule of the fitted line to make predictions being aware of the limitations of extrapolation",
+            "use of the coefficient of determination, $r^{2}$, to assess the strength of the association in terms of explained variation",
+            "use of residual analysis to check quality of fit",
+            "data transformation and its use in transforming some forms of non-linear data to linearity using a square, logarithmic (base 10) or reciprocal transformation (applied to one axis only)",
+            "interpretation and use of the equation of the least squares line fitted to the transformed data to make predictions.",
+            "qualitative features of time series plots; recognition of features such as trend (long-term direction), seasonality (systematic, calendar related movements) and irregular fluctuations (unsystematic, short-term fluctuations); possible outliers and their sources, including one-off real-world events, and signs of structural change such as a discontinuity in the time series",
+            "numerical smoothing of time series data using moving means with consideration of the number of terms required (using centring when appropriate) to help identify trends in time series plot with large fluctuations",
+            "graphical smoothing of time series plots using moving medians (involving an odd number of points only) to help identify long-term trends in time series with large fluctuations",
+            "seasonal adjustment including the use and interpretation of seasonal indices and their calculation using seasonal and yearly means",
+            "modelling trend by fitting a least squares line to a time series with time as the explanatory variable (data de-seasonalised where necessary), and the use of the model to make forecasts (with re-seasonalisation where necessary) including consideration of the possible limitations of fitting a linear model and the limitations of extending into the future."
+          ]
+        },
+        {
+          "name": "Functions, relations and graphs",
+          "number": 1,
+          "description": "In this area of study students cover transformations of the plane and the behaviour of some elementary functions of a single real variable, including key features of their graphs such as axis intercepts, stationary points, points of inflection, domain (including maximal, implied or natural domain), co-domain and range, asymptotic behaviour and symmetry. The behaviour of functions and their graphs is to be explored in a variety of modelling contexts and theoretical investigations.",
+          "points": [
+            "graphs of polynomial functions and their key features",
+            "graphs of the following functions: power functions, $y = x^{n},n \\in Q$; exponential functions, $y = a^{x},a \\in R^{+}$, in particular $y = e^{x}$; logarithmic functions, $y = \\log_{e}(x)$ and $y = \\log_{10}(x)$; and circular functions,\\",
+            "transformation from $y = f(x)$ to $y = Af\\left( n(x + b) \\right)$, where $A,n,b$ and $c \\in R$, $A,n \\neq 0$, and $f$ is one of the functions specified above, and the inverse transformation",
+            "the relation between the graph of an original function and the graph of a corresponding transformed function (including families of transformed functions for a single transformation parameter)",
+            "graphs of sum, difference, product and composite functions involving functions of the types specified above (not including composite functions that result in reciprocal or quotient functions)",
+            "modelling of practical situations using polynomial, power, circular, exponential and logarithmic functions, simple transformation and combinations of these functions, including simple piecewise (hybrid) functions."
+          ]
+        },
+        {
+          "name": "Algebra, number and structure",
+          "number": 2,
+          "description": "In this area of study students cover the algebra of functions, including composition of functions, inverse functions and the solution of equations. They also study the identification of appropriate solution processes for solving equations, and systems of simultaneous equations, presented in various forms. Students also cover recognition of equations and systems of equations that are solvable using inverse operations or factorisation, and the use of graphical and numerical approaches for problems involving equations where exact value solutions are not required, or which are not solvable by other methods. This content is to be incorporated as applicable to the other areas of study.",
+          "points": [
+            "solution of polynomial equations with real coefficients of degree $n$ having up to $n$ real solutions, including numerical solutions",
+            "functions and their inverses, including conditions for the existence of an inverse function, and use of inverse functions to solve equations involving exponential, logarithmic, circular and power functions",
+            "composition of functions, where $f$ composite $g$, $f \\circ g,\\ $ is defined by $(f \\circ g)(x) = f\\left( g(x) \\right)\\ $given $r_{g} \\subseteq d_{f}$",
+            "solution of equations of the form $f(x) = g(x)$ over a specified interval, where $f$ and $g$ are functions of the type specified in the 'Functions, relations and graphs' area of study, by graphical, numerical and algebraic methods, as applicable",
+            "solution of literal equations and general solution of equations involving a single parameter",
+            "solution of simple systems of simultaneous linear equations, including consideration of cases where no solution or an infinite number of possible solutions exist (geometric interpretation only required for two equations in two variables)."
+          ]
+        },
+        {
+          "name": "Calculus",
+          "number": 3,
+          "description": "In this area of study students cover graphical treatment of limits, continuity and differentiability of functions of a single real variable, and differentiation, anti-differentiation and integration of these functions. This material is to be linked to applications in practical situations.",
+          "points": [
+            "deducing the graph of the derivative function from the graph of a given function and deducing the graph of an anti-derivative function from the graph of a given function",
+            "derivatives of $x^{n}$ for $n \\in Q$, $e^{x}$, $\\log_{e}(x)$, $sin(x)$, $\\cos(x)\\ $and $tan(x)$",
+            "derivatives of $f(x) \\pm g(x)$, $f(x) \\times g(x)$, $\\frac{f(x)}{g(x)}$ and $(f \\circ g)(x)$ where $f$ and $g$ are polynomial functions exponential, circular, logarithmic or power functions and transformations or simple combinations of these functions",
+            "application of differentiation to graph sketching and identification of key features of graphs, including stationary points and points of inflection, and intervals over which a function is strictly increasing or strictly decreasing",
+            "identification of local maximum/minimum values over an interval and application to solving optimisation problems in context, including identification of interval endpoint maximum and minimum values",
+            "anti-derivatives of polynomial functions and functions of the form $f(ax + b)$ where $f$ is $x^{n}$, for $n \\in Q$, $e^{x}$, $\\sin(x)$, $\\cos(x)$ and linear combinations of these",
+            "informal consideration of the definite integral as a limiting value of a sum involving quantities such as area under a curve and approximation of definite integrals using the trapezium rule",
+            "anti-differentiation by recognition that $F^{'}(x) = f(x)$ implies $\\int_{}^{}{f(x)dx} = F(x) + c$ and informal treatment of the fundamental theorem of calculus, $\\int_{a}^{b}{f(x)dx = F(b) - F(a)}$",
+            "properties of anti-derivatives and definite integrals",
+            "application of integration to problems involving finding a function from a known rate of change given a boundary condition, calculation of the area of a region under a curve and simple cases of areas between curves, average value of a function and other situations."
+          ]
+        },
+        {
+          "name": "Data analysis, probability and statistics",
+          "number": 4,
+          "description": "In this area of study students cover discrete and continuous random variables, their representation using tables, probability functions (specified by rule and defining parameters as appropriate); the calculation and interpretation of central measures and measures of spread; and statistical inference for sample proportions. The focus is on understanding the notion of a random variable, related parameters, properties and application and interpretation in context for a given probability distribution.",
+          "points": [
+            "random variables, including the concept of a random variable as a real function defined on a sample space and examples of discrete and continuous random variables",
+            "discrete random variables:",
+            "specification of probability distributions for discrete random variables using graphs, tables and probability mass functions",
+            "calculation and interpretation of mean, $\\mu$, variance, $\\sigma^{2},\\ $ and standard deviation of a discrete random variable and their use",
+            "Bernoulli trials and the binomial distribution, $Bi(n,\\ p)$, as an example of a probability distribution for a discrete random variable",
+            "effect of variation in the value(s) of defining parameters on the graph of a given probability mass function for a discrete random variable",
+            "calculation of probabilities for specific values of a random variable and intervals defined in terms of a random variable, including conditional probability",
+            "continuous random variables:",
+            "construction of probability density functions from non-negative functions of a real variable",
+            "specification of probability distributions for continuous random variables using probability density functions",
+            "calculation and interpretation of mean, $\\mu$, variance, $\\sigma^{2},\\ $ and standard deviation of a continuous random variable and their use",
+            "standard normal distribution, $N(0,\\ 1)$, and transformed normal distributions, $N(\\mu,\\ \\sigma^{2})$, as examples of a probability distribution for a continuous random variable",
+            "effect of variation in the value(s) of defining parameters on the graph of a given probability density function for a continuous random variable",
+            "calculation of probabilities for intervals defined in terms of a random variable, including conditional probability (the cumulative distribution function may be used but is not required)",
+            "statistical inference, including definition and distribution of sample proportions, simulations and confidence intervals:",
+            "distinction between a population parameter and a sample statistic and the use of the sample statistic to estimate the population parameter",
+            "simulation of random sampling, for a variety of values of $p$ and a range of sample sizes, to illustrate the distribution of $\\widehat{P}$ and variations in confidence intervals between samples",
+            "concept of the sample proportion $\\widehat{P} = \\frac{X}{n}$ as a random variable whose value varies between samples,",
+            "approximate normality of the distribution of $\\widehat{P}$ for large samples and, for such a situation, the mean",
+            "determination and interpretation of, from a large sample, an approximate confidence interval $\\left( \\widehat{p} - z\\sqrt{\\frac{\\widehat{p\\ }(1 - \\widehat{p\\ })\\ }{n}},\\widehat{p} + z\\sqrt{\\frac{\\widehat{p\\ }(1 - \\widehat{p})\\ }{n}} \\right)$, for a population proportion where $z\\ $is the appropriate quantile for the standard normal distribution, in particular the 95% confidence interval as an example of such an interval where $z \\approx 1.96$ (the term standard error may be used but is not required)."
+          ]
+        },
+        {
+          "name": "Discrete mathematics",
+          "number": 1,
+          "description": "Logic and proof",
+          "points": [
+            "conjecture -- making a statement to be proved or disproved",
+            "implications, equivalences and if and only if statements (necessary and sufficient conditions)",
+            "natural deduction and proof techniques: direct proofs using a sequence of direct implications, proof by cases, proof by contradiction, and proof by contrapositive",
+            "quantifiers 'for all' and 'there exists', examples and counter-examples",
+            "proof by mathematical induction."
+          ]
+        },
+        {
+          "name": "Functions, relations and graphs",
+          "number": 2,
+          "description": "In this area of study students cover rational functions and other simple quotient functions, curve sketching of these functions and relations, and the analysis of key features of their graphs including intercepts, asymptotic behaviour and the nature and location of stationary points and points of inflection and symmetry.",
+          "points": [
+            "rational functions and the expression of rational functions of low degree as sums of partial fractions",
+            "graphs of rational functions of low degree, their asymptotic behaviour, and the nature and location of stationary points and points of inflection",
+            "graphs of simple quotient functions, their asymptotic behaviour, and the nature and location of stationary points and points of inflection."
+          ]
+        },
+        {
+          "name": "Algebra, number and structure",
+          "number": 3,
+          "description": "Complex numbers",
+          "points": [
+            "De Moivre's theorem, proof for integral powers, powers and roots of complex numbers in polar form, and their geometric representation and interpretation",
+            "the $n\\ th\\ $ roots of unity and other complex numbers and their location in the complex plane",
+            "factors over *C*, of polynomials; and introduction to the fundamental theorem of algebra, including\\",
+            "solution over *C* of polynomial equations by completing the square, use of the quadratic factorisation and the conjugate root theorem."
+          ]
+        },
+        {
+          "name": "Calculus",
+          "number": 4,
+          "description": "In this area of study students cover the advanced calculus techniques for analytical and numerical differentiation and integration of a broad range of functions, and combinations of functions; and their application in a variety of theoretical and practical situations, including curve sketching, evaluation of arc length, area and volume, differential equations and kinematics, and modelling with differential equations drawing from a variety of fields such as biology, economics and science.",
+          "points": [
+            "the relationship between the graph of a function and the graphs of its anti-derivative functions",
+            "derivatives of inverse circular functions",
+            "second derivatives, use of notations $f''(x)$ and $\\frac{d^{2}y}{dx^{2}}$, and their application to the analysis of graphs of",
+            "applications of chain rule to related rates of change and implicit differentiation; for example, implicit differentiation of the relations $x^{2} + y^{2} = 9,\\ 3xy^{2} = x + y$ and $x\\ sin(y) + x^{2}\\cos(y) = 1$",
+            "techniques of anti-differentiation and for the evaluation of definite integrals:",
+            "anti-differentiation of $\\frac{1}{x}$ to obtain $\\log_{e}|x|$",
+            "anti-differentiation of $\\frac{1}{\\sqrt{a^{2} - x^{2}}}\\ $and $\\frac{a}{a^{2} + x^{2}}\\ $for $a > 0$ by recognition that they are derivatives of",
+            "use of the substitution $u = g(x)\\ $to anti-differentiate expressions",
+            "use of the trigonometric identities $\\sin^{2}(ax) = \\ \\frac{1}{2}(1 - cos(2ax)$ and $\\cos^{2}(ax) = \\ \\frac{1}{2}(1 + \\ cos(2ax$) in",
+            "anti-differentiation using partial fractions of rational functions",
+            "integration by parts",
+            "numerical and symbolic integration using technology",
+            "application of integration, areas of regions bounded by curves, arc lengths for parametrically determined curves, surface area of solids of revolution, volumes of solids of revolution of a region about either coordinate axis.",
+            "formulation of differential equations from contexts in, for example, chemistry, biology and economics, in situations where rates are involved (including some differential equations whose analytic solutions are not required, but can be solved numerically using technology)",
+            "the logistic differential equation",
+            "verification of solutions of differential equations and their representation using direction (slope) fields",
+            "solution of simple differential equations of the form $\\frac{dy}{dx} = f(x),\\ \\frac{dy}{dx} = g(y)\\ $and in general differential equations of the form $\\frac{dy}{dx} = f(x)g(y)$ using separation of variables and differential equations of the form $\\frac{d^{2}y}{dx^{2}} = f(x)$",
+            "numerical solution by Euler's method (first order approximation).",
+            "use of velocity--time graphs to describe and analyse rectilinear motion",
+            "application of differentiation, anti-differentiation and solution of differential equations to rectilinear motion of a single particle, including the different derivative forms for acceleration $a = \\frac{d^{2}x}{dt^{2}} = \\frac{dv}{dt} = v\\frac{dv}{dx} = \\frac{d}{dx}\\left( \\frac{1}{2}v^{2} \\right)$."
+          ]
+        },
+        {
+          "name": "Space and measurement",
+          "number": 5,
+          "description": "In this area of study students cover the arithmetic and algebra of vectors; linear dependence and independence of a set of vectors; proof of geometric results using vectors; vector representation of curves in the plane and their parametric and Cartesian equations; vector kinematics in one, two and three dimensions; vector, parametric and Cartesian equations of lines and planes.",
+          "points": [
+            "addition and subtraction of vectors and their multiplication by a scalar, position vectors",
+            "linear dependence and independence of a set of vectors and geometric interpretation",
+            "magnitude of a vector, unit vector, the orthogonal unit vectors $i,j,\\text{ and }k$",
+            "resolution of a vector into rectangular components",
+            "scalar (dot) product of two vectors, deduction of dot product for the $\\mathbf{i},\\mathbf{j},\\text{ and }\\mathbf{k}$ vector system and its use to find scalar resolute and vector resolute",
+            "vector (cross) product of two vectors in three dimensions, including the determinant form",
+            "parallel and perpendicular vectors",
+            "vector proofs of simple geometric results, such as 'the diagonals of a rhombus are perpendicular', 'the medians of a triangle are concurrent' and 'the angle subtended by a diameter in a circle is a right angle'.",
+            "vector equations and parametric equations of curves in two or three dimensions involving a parameter (and the corresponding Cartesian equation in the two-dimensional case)",
+            "vector equation of a straight line, given the position of two points, or equivalent information, in both two and three dimensions",
+            "vector cross product, normal to a plane and vector, parametric and Cartesian equations of a plane.",
+            "position vector as a function of time and sketching the corresponding path given the function, including circles, ellipses and hyperbolas in Cartesian or parametric forms",
+            "the positions of two particles each described as a vector function of time, and whether their paths cross or if the particles meet",
+            "differentiation and anti-differentiation of a vector function with respect to time and applying vector calculus to motion in a plane and in three dimensions."
+          ]
+        },
+        {
+          "name": "Data analysis, probability and statistics",
+          "number": 6,
+          "description": "In this area of study students cover the study of linear combinations of random variables and introductory statistical inference with respect to the mean of a single population, the determination of confidence intervals, and hypothesis testing for the mean using the distribution of sample means.",
+          "points": [
+            "for $n$ independent identically distributed random variables $X_{1},\\ X_{2}\\ \\ldots X_{n}$ each with mean $\\mu$ and variance $\\sigma^{2}$:",
+            "${E(X}_{1} + \\ X_{2} + \\ldots{+ \\ X}_{n}) = n\\mu$",
+            "${Var(X}_{1} + \\ X_{2} + \\ldots{+ \\ X}_{n}) = n\\sigma^{2}$",
+            "for $n$ independent random variables $X_{1},\\ X_{2}\\ \\ldots X_{n}$and real numbers $a_{1},\\ a_{2}\\ldots\\ a_{n}$:",
+            "$E({a_{1}X}_{1} + \\ {a_{2}X}_{2} + \\ldots{+ \\ a_{n}X}_{n}\\ ) = {a_{1}E(X}_{1)} + \\ {a_{2}E(X}_{2}) + \\ldots{+ \\ a_{n}E(X}_{n})\\ $",
+            "$Var({a_{1}X}_{1} + \\ {a_{2}X}_{2} + \\ldots{+ \\ a_{n}X}_{n}\\ ) = {{a_{1}}^{2}Var(X}_{1}) + \\ {{a_{2}}^{2}Var(X}_{2}) + \\ldots{+ \\ {a_{n}}^{2}Var(X}_{n})\\ $",
+            "for $n$ normally distributed independent random variables $X_{1},\\ X_{2}\\ \\ldots X_{n}\\ $and real numbers $a_{1},\\ a_{2}\\ldots\\ a_{n}$ the random variable ${a_{1}X}_{1} + \\ {a_{2}X}_{2} + \\ldots{+ \\ a_{n}X}_{n}$ is also normally distributed.",
+            "the concept of the sample mean $\\overline{X}$ as a random variable whose value varies between samples where $X$\\",
+            "simulation of repeated random sampling, from a variety of distributions and a range of sample sizes,\\",
+            "determination of confidence intervals for means and the use of simulation to illustrate variations in confidence intervals between samples and to show that the likelihood of a confidence interval containing $\\mu$ depends on the level of confidence chosen in the determination of the interval",
+            "construction of an approximate confidence interval, $(\\overline{x} - z\\frac{\\sigma}{\\sqrt{n}},\\ \\overline{x} + z\\frac{\\sigma}{\\sqrt{n}})$ where $\\sigma$ is the population standard deviation and $z$ is the appropriate quantile for the standard normal distribution or construction of an approximate confidence interval $(\\overline{x} - z\\frac{s}{\\sqrt{n}},\\ \\overline{x} + z\\frac{s}{\\sqrt{n}}$) where $s$ is the sample standard deviation and $z$ is the appropriate quantile for the standard normal distribution, and $n$ is large ($n$ ≥ 30 in many practical contexts).",
+            "concepts of null hypothesis, $H_{0}$, and alternative hypotheses, $H_{1}$, test statistic",
+            "level of significance and $p$-value",
+            "formulation of hypotheses and making a decision concerning a population mean based on:",
+            "a random sample from a normal population of known variance",
+            "a large random sample from any population",
+            "1-tail and 2-tail tests",
+            "interpretation of the results of a hypothesis test in the context of the problem",
+            "hypothesis test, relating the formulation, conduct, errors and results in terms of conditional probability."
+          ]
+        }
+      ],
+      "outcomes": [
+        {
+          "knowledge": [
+            "conventions of formal mathematical terminology and notations in calculations, symbolic expressions and formulas",
+            "rational numbers and measurement related irrational numbers",
+            "algorithmic, algebraic and computational strategies",
+            "number facts, operations and relationships for calculations",
+            "ratios, proportions and percentages, direct and indirect variation",
+            "manipulation and transposition of formulas to find unknown values",
+            "simultaneous equations and their graphical and algebraic solutions",
+            "estimations and approximations including interval estimates, rounding, significant figures, leading-digit approximations, floor and ceiling values, and percentage error",
+            "contextual and real-world meaning of numerical results",
+            "categorical data and numerical data, including continuous data",
+            "purposes for data collection and nature of audience for communication of results",
+            "data collection and organisation, including the development and production of surveys",
+            "the purposes and effectiveness of different forms of data representation and types of graphs and data scales, including contemporary digital representations",
+            "features of sets of data such as measures of central tendency (mean, median and mode) and spread (such as standard deviation, quantile intervals, range and percentiles), shape of distribution and outliers",
+            "likelihood and chance of events in relation to relative and long-term data and frequencies such as in relation to epidemics, the climate and the environment",
+            "characteristics and properties of data sets, the shape of their distribution and representations and the terminology for comparison and analysis of data sets, graphs and summary statistics",
+            "investment and borrowing services offered by financial institutions such as investments, loans and mortgages",
+            "the Australian taxation and superannuation system at a local (rates), state and national level",
+            "routine income and expenditure transactions for businesses such as invoicing, BAS, superannuation and leave entitlements",
+            "non-bank financial products, services and contracts such as insurances, mobile phone/internet plans, hire purchase and club membership contracts",
+            "common data and information on financial and economic measures and indicators at the state, national or global level",
+            "national and global health and environmental long-term relative data and frequencies such as epidemics, climate and environmental data/records",
+            "financial risk and returns at personal, community and national level such as, tenancy agreements, roles of different types of insurance, diversification strategies and recessions",
+            "the names and properties of shapes and objects and their representations",
+            "transformations, symmetry, similarity and common angle properties",
+            "formal language, symbols and labelling and drawing conventions for diagrams, maps, plans, models, transformations, symmetry, similarity, perspective and common angle properties",
+            "metric and other related quantity measures including derived and routine non-metric measures",
+            "routine digital and analogue measurement tools and instruments and scales",
+            "formulas for calculating length, area, surface area, volume and capacity",
+            "measurement error, tolerance, accuracy and precision"
+          ],
+          "skills": [
+            "use and apply the conventions of mathematical notations, terminology and representations",
+            "make estimates and carry out relevant calculations using mental and by-hand methods",
+            "use different technologies effectively for accurate, reliable and efficient calculations",
+            "solve practical problems which require the use and application of a range of numerical and algebraic computations involving rational and real values of variables",
+            "solve practical problems requiring graphical and algebraic processes and applications, including substitution into, and transposition of, formulas and finding a break-even point using simultaneous equations",
+            "use estimation and other approaches to check the outcomes, including for accuracy and reasonableness of results",
+            "evaluate the mathematics used and the outcomes obtained relative to personal, contextual and real-world implications",
+            "collect, organise, collate and represent categorical data and numerical data, including continuous data",
+            "use technology effectively and appropriately for accurate, reliable and efficient collation and representation of data sets",
+            "accurately read and interpret charts, tables and graphs including prediction, interpolation and extrapolation of data",
+            "calculate summary statistical data using common measures of central tendency and spread, including standard deviation",
+            "use statistical language to describe, compare and analyse data sets, in terms of centre, spread, relationship and sample size",
+            "draw inferences and conclusions, and explain any limitations and implications of a statistical study",
+            "identify and interpret any errors and misrepresentations in data sets",
+            "use long-term data and relative frequencies in practical situation to make informed interpretations and decisions about the likelihood of events or outcomes with respect to financial data, epidemics, climate data, or environmental data",
+            "compare, contrast and undertake routine calculations for credit options for personal financial management such as personal borrowing (a car, holiday) or for housing",
+            "describe and explain taxation scales and related rates and how taxes and superannuation are calculated and distributed at a local, state and national level, and perform calculations with taxation or superannuation",
+            "undertake routine calculations or transactions related to the income and expenditure for businesses such as invoicing, BAS, superannuation and leave entitlements",
+            "compare, contrast and undertake calculations for non-banking financial products and services such as insurances and mobile phone/internet plans",
+            "interpret and analyse available financial and economic data at the community, national or global level and report on trends and outcomes such as health or environmental statistical data",
+            "interpret and describe shapes and objects and their representations using geometric and spatial language and conventions",
+            "use triangles and other polygons to solve problems",
+            "explain and apply transformations, including similarity and symmetry of shapes",
+            "create and modify diagrams, plans, maps or designs using drawing equipment and packages/ applications, including undertaking standard transformations",
+            "estimate and accurately measure different quantities using appropriate measurement tools using metric and routine non-metric measures",
+            "convert between a range of metric units, including derived and routine non-metric measures",
+            "calculate and interpret area, surface area, volume, capacity and density of routine, including compound, shapes and objects",
+            "calculate and make informal considerations of errors in measurement in relation to specified or appropriate tolerance, accuracy and precision",
+            "use estimation, rounding and approximation strategies to check the outcomes and interpret the results and to reflect on the outcomes obtained relative to personal, contextual and real-world implications"
+          ]
+        },
+        {
+          "knowledge": [
+            "uses and applications of mathematics and numerical data and information in aspects of contemporary life and the embedded nature of this mathematics in work, social and personal contexts",
+            "relevant and appropriate mathematics in areas relating to student's study, work, social or personal contexts",
+            "common methods of presenting and communicating mathematics in everyday life, for example charts, graphs, maps, plans, tables, algebraic expressions and diagrams"
+          ],
+          "skills": [
+            "identify and recognise how mathematics is used in everyday situations and contexts, making connections between mathematics and the real world",
+            "extract the mathematics embedded in everyday situations and contexts and formulate what mathematics can be used to solve practical problems in both familiar and new contexts",
+            "represent the mathematical information in a form that is personally useful as an aid to problem-solving, such as a table, summary, chart, numeric or algebraic representation, physical model or sketch",
+            "undertake a range of mathematical tasks, applications and processes to solve practical problems, such as drawing, measuring, counting, estimating, calculating, generalising and modelling",
+            "use estimation and other assessment skills to check the outcomes and decide on the appropriate accuracy for the outcome",
+            "interpret results and outcomes of the application of mathematics in a context, including how appropriately and accurately they fit the situation, and to critically reflect on and evaluate the mathematics used and the outcomes obtained relative to personal, contextual and real-world implications",
+            "represent, communicate and discuss the results and outcomes of the application of mathematics in a range of contexts"
           ]
         }
       ]
@@ -211,6 +619,65 @@
             "introduction to transition matrices (assuming the next state only relies on the current state), working with iterations of simple models linked to, for example, population growth or decay, including informal consideration of long run trends and steady state."
           ]
         }
+      ],
+      "outcomes": [
+        {
+          "knowledge": [
+            "types of data, including categorical (nominal or ordinal) or numerical (discrete and continuous)",
+            "the concept of a data distribution and its display using a statistical plot",
+            "the five-number summary and possible outliers",
+            "mean $\\overline{x\\ }$and sample standard deviation $s = \\sqrt{\\frac{\\sum_{}^{}{(x - \\overline{x})}^{2}}{n - 1}}$",
+            "the concept of an arithmetic or geometric sequence as a function and its recursive specification",
+            "the use of a first-order linear recurrence relation to generate the values of an arithmetic or geometric sequence",
+            "the explicit rule, $u_{n}$, of an arithmetic or geometric sequence and its evaluation",
+            "the use of a first-order linear recurrence relations of the form $u_{0} = a,\\ u_{n + 1} = u_{n} + d\\ \\ $where $a$ and $d\\ $are constants to model linear growth and decay, including the rule for evaluating the value after$\\ n$ periods of linear growth or decay in financial contexts, simple interest investments and loans, flat rate and unit cost depreciation of an asset over time, including the rule for the future value of the asset after $n$ depreciation periods",
+            "the use of first-order linear recurrence relations of the form $u_{0} = a,u_{n + 1} = Ru_{n}$ where $a$ and $R\\ $are constants to model compound interest investments and loans, reducing balance depreciation of an asset over time, including the rule for the future value of the asset after $n\\ $depreciation periods, compound interest investments and debts",
+            "concepts of ratio, proportion, percentage, percentage change and rate, and unitary method",
+            "the properties of linear functions and their graphs",
+            "the concept of a linear model and its properties, and simultaneous linear equations and their solutions",
+            "the forms, rules, graphical images and tables for linear relations and equations",
+            "situations that can be modelled by piecewise linear graphs",
+            "the concept of a matrix and its use to store, display and manipulate information",
+            "types of matrices (row, column, square, zero, identity) and the order of a matrix",
+            "matrix arithmetic: the definition of addition, subtraction, multiplication by a scalar, multiplication, the power of a square matrix, and the conditions for their use",
+            "determinant and inverse of a matrix",
+            "simple communication matrices and their application",
+            "regular transition matrices and their identification"
+          ],
+          "skills": [
+            "construct and interpret graphical displays of data, and describe the distributions of the variables involved and interpret in the context of the data",
+            "calculate the values of appropriate summary statistics to represent the centre and spread of the distribution of a numerical variable and interpret in the context of the data",
+            "construct and use parallel boxplots or back-to-back stem plots (as appropriate) to compare the distribution of a numerical variable across two or more groups in terms of centre (median), spread (range and IQR) and outliers, interpreting any observed differences in the context of the data",
+            "use a given recurrence relation to generate a sequence, deduce the explicit rule, $u_{n}$ from the recursion relation, tabulate, graph and evaluate the sequence",
+            "use a recurrence relation, table or graph to model and analyse practical situations involving discrete linear growth or decay",
+            "demonstrate the use of a recurrence relation to determine the linear depreciating value of an asset after $n$ time periods for the initial sequence",
+            "use a rule for the future value of a linear depreciating asset to solve practical problems",
+            "develop a linear model to represent and analyse a practical situation and specify its domain of application",
+            "interpret the slope and the intercept of a straight-line graph in terms of its context and use the equation to make predictions",
+            "construct graphs and/or tables of values for given linear models and formula and vice versa",
+            "solve linear equations constructed from word problems, including simultaneous linear equations",
+            "use piecewise linear graphs to model and analyse practical situations",
+            "use matrices to store and display information that can be presented as a rectangular array",
+            "identify row, column, square, zero and identity matrices and determine their order",
+            "add and subtract matrices, multiply a matrix by a scalar or another matrix, and raise a matrix to a power",
+            "use matrix sums, difference, products and powers and inverses to model and solve practical problems",
+            "construct a transition matrix to model the transitions in a population with an equilibrium state"
+          ]
+        },
+        {
+          "knowledge": [
+            "the facts, concepts and techniques associated with the topics studied",
+            "the standard mathematical models used in the topics studied",
+            "the facts, concepts, techniques and/or models suitable to solve extended application problems or to conduct a structured investigation in context",
+            "assumptions and conditions underlying the facts, concepts, techniques and models used when solving a problem or conducting a mathematical investigation"
+          ],
+          "skills": [
+            "identify, recall and select the mathematical facts, concepts and techniques needed to solve a problem or conduct an investigation in a variety of contexts",
+            "recall, select and use standard mathematical models to represent practical situations",
+            "use specific models to comment on particular situations being analysed and to make predictions",
+            "interpret and report the results of applying these models in terms of the context of the problem being solved, including discussing the assumptions underlying the application of such models"
+          ]
+        }
       ]
     },
     "2": {
@@ -264,6 +731,113 @@
             "the use of the sine rule, including the ambiguous case, the cosine rule, as a generalisation of Pythagoras' theorem, and their application to solving practical problems involving non-right-angled triangles, including three-figure (true) bearings in navigation",
             "similar objects and the application of linear scale factor $k > 0$ to scale lengths, surface areas and volumes with practical applications."
           ]
+        },
+        {
+          "name": "Functions, relations and graphs",
+          "number": 1,
+          "description": "In this area of study students cover the graphical representation of simple algebraic functions (polynomial and power functions) of a single real variable and the key features of functions and their graphs such as axis intercepts, domain (including the concept of maximal, natural or implied domain), co-domain and range, stationary points, asymptotic behaviour and symmetry. The behaviour of functions and their graphs is to be explored in a variety of modelling contexts and theoretical investigations.",
+          "points": [
+            "functions and function notation, domain, co-domain and range, representation of a function by rule, graph and table, inverse functions and their graphs",
+            "qualitative interpretation of features of graphs of functions, including those of real data not explicitly represented by a rule, with approximate location of any intercepts, stationary points and points of inflection",
+            "graphs of power functions $f(x) = x^{n}$ for $n \\in \\text{\\{} - 2, - 1,\\frac{1}{3},\\frac{1}{2},1,2,3,4\\text{\\}}$, and transformations of these graphs\\",
+            "graphs of polynomial functions of low degree, and interpretation of key features of these graphs.",
+            ""
+          ]
+        },
+        {
+          "name": "Algebra, number and structure",
+          "number": 2,
+          "description": "This area of study supports students' work in the 'Functions, relations and graphs', 'Calculus' and 'Data analysis, probability and statistics' areas of study, and content is to be distributed between Units 1 and 2.\\",
+          "points": [
+            "use of symbolic notation to develop algebraic expressions and represent functions, relations, equations, and systems of simultaneous equations",
+            "substitution into, and manipulation of, these expressions",
+            "recognition of equivalent expressions and simplification of algebraic expressions involving different forms of polynomial and power functions, the use of distributive and exponent laws applied to these functions, and manipulation from one form of expression to an equivalent form",
+            "use of parameters to represent families of functions and determination of rules of simple functions and relations from given information",
+            "transformations of the plane and application to basic functions and relations by simple combinations of dilations (students should be familiar with both 'parallel to an axis' and 'from an axis' descriptions), reflections in an axis and translations (matrix representation may be used but is not required)",
+            "the connection between the roots of a polynomial function, its factors and the horizontal axis intercepts of its graph, including the remainder, factor and rational root theorems",
+            "solution of polynomial equations of low degree, numerically, graphically and algebraically, including numerical approximation of roots of simple polynomial functions using the bisection method algorithm",
+            "solution of a set of simultaneous linear equations (geometric interpretation only required for two variables) and equations of the form $f(x) = g(x)$ numerically, graphically and algebraically."
+          ]
+        },
+        {
+          "name": "Calculus",
+          "number": 3,
+          "description": "In this area of study students cover constant and average rates of change and an introduction to instantaneous rate of change of a function in familiar contexts, including graphical and numerical approaches to estimating and approximating these rates of change.",
+          "points": [
+            "average and instantaneous rates of change in a variety of practical contexts and informal treatment of instantaneous rate of change as a limiting case of the average rate of change",
+            "interpretation of graphs of empirical data with respect to rate of change such as temperature or pollution levels over time, motion graphs and the height of water in containers of different shapes that are being filled at a constant rate, with informal consideration of continuity and smoothness",
+            "use of gradient of a tangent at a point on the graph of a function to describe and measure instantaneous rate of change of the function, including consideration of where the rate of change is positive, negative or zero, and the relationship of the gradient function to features of the graph of the original function."
+          ]
+        },
+        {
+          "name": "Data analysis, probability and statistics",
+          "number": 4,
+          "description": "In this area of study students cover the concepts of experiment (trial), outcome, event, frequency, probability and representation of finite sample spaces and events using various forms such as lists, grids, Venn diagrams and tables. They also cover introductory counting principles and techniques and their application to probability.",
+          "points": [
+            "random experiments, sample spaces, outcomes, elementary and compound events, random variables and the distribution of results of experiments",
+            "simulation using simple random generators such as coins, dice, spinners and pseudo-random generators using technology, and the display and interpretation of results, including informal consideration of proportions in samples",
+            "addition and multiplication principles for counting",
+            "combinations including the concept of a selection and computation of $\\binom{n}{r}$ and the application of counting techniques to probability."
+          ]
+        }
+      ],
+      "outcomes": [
+        {
+          "knowledge": [
+            "response and explanatory variables and their role in modelling associations between two numerical variables",
+            "scatterplots and their use in identifying and describing the association between two numerical variables",
+            "the concepts of association and causation",
+            "the equation of a line of good fit",
+            "the language, properties and types of graphs, including edge, face, loop, vertex, the degree of a vertex, isomorphic and connected graphs, and the adjacency matrix, Euler's formula for planar graphs, and walks, trails, paths, circuits, bridges and cycles in the context of traversing a graph",
+            "weighted graphs and networks, and the shortest path problem",
+            "trees, minimum spanning trees and the concept of a greedy algorithm",
+            "the concepts of direct and inverse variation",
+            "the methods of transforming data",
+            "orders of magnitude, units of measure that range over multiple orders of magnitude, and the concept of a logarithmic (base 10) scale",
+            "the measures of length, area, volume and capacity and their units of measurement",
+            "Pythagoras' theorem and the trigonometric ratios (sine, cosine and tangent) and their application including angles of elevation and depression and three figure bearings",
+            "the definition of sine and cosine for angles up to 180°",
+            "the sine rule (including the ambiguous case) and the cosine rule",
+            "the perimeter and areas of triangles (using several methods based on information available), quadrilaterals, circles and composite shapes, including arcs",
+            "formulas for the volumes and surface areas of solids (spheres, cylinders, pyramids, prisms) and their application to composite objects",
+            "similarity and scaling, and the linear scale factor $k$ and its extension to areas and volumes",
+            "scientific notation, exact and approximate answers, significant figures and rounding"
+          ],
+          "skills": [
+            "use a scatterplot to describe an observed association between two numerical variables in terms of strength, direction and form",
+            "identify the explanatory variable and use the equation of a line of good fit by eye to the data to model an observed linear association",
+            "calculate the intercept and slope, and interpret the slope and intercept of the model in the context of data",
+            "use a linear model to make predictions, including the issues of interpolation and extrapolation",
+            "describe a planar graph in terms of the number of faces (regions), vertices and edges and apply Euler's formula to solve associated problems",
+            "apply the concepts of connected graphs: trails, paths, circuits, bridges and cycles to model and solve practical problems related to traversing a graph",
+            "find the shortest path in a weighted graph (solution by inspection only)",
+            "apply the concepts of trees and minimum spanning trees to solve practical problems using a variety of greedy algorithms",
+            "construct graphs, digraphs and networks and their matrix equivalents to model and analyse practical situations",
+            "solve problems which involve the use of direct or inverse variation",
+            "model non-linear data by using suitable transformations",
+            "use a logarithmic (base 10) scale to represent quantities that range over several orders of magnitude and to solve variation problems",
+            "solve practical problems involving right-angled triangles in the dimensions including the use of angles of elevation and depression, Pythagoras' theorem trigonometric ratios sine, cosine and tangent and the use of three-figure (true) bearings in navigation",
+            "solve practical problems requiring the calculation of side lengths or angles in non-right-angled triangles using the sine rule or the cosine rule as appropriate",
+            "calculate the perimeter and areas of triangles (calculating the areas of triangles in practical situations using the rules $A = \\frac{1}{2}bh,\\ $ $A = \\frac{1}{2}absin(C)$ or $A = \\sqrt{s(s - a)(s - b)(s - c)}$ where $s = \\frac{a + b + c}{2}$",
+            "use quadrilaterals, circles and composite shapes including arcs ($s = \\frac{r\\pi\\ \\theta}{180}\\ )$ and sectors ($A = \\frac{\\pi r^{2}\\theta}{360}$) in practical situations",
+            "calculate the perimeter, areas, volumes and surface areas of solids (spheres, cylinders, pyramids and prisms and composite objects) in practical situations, including simple uses of Pythagoras' in three dimensions",
+            "use a linear scale factor to scale lengths, areas and volumes of similar figures and shapes in practical situations",
+            "distinguish between exact and approximate answers and write approximate answers correct to a given number of decimal places or significant figures"
+          ]
+        },
+        {
+          "knowledge": [
+            "the facts, concepts and techniques associated with the topics studied",
+            "the standard mathematical models used in the topics studied",
+            "the facts, concepts, techniques and/or models suitable to solve extended application problems or to conduct a structured investigation in context",
+            "assumptions and conditions underlying the facts, concepts, techniques and models used when solving a problem or conducting a mathematical investigation"
+          ],
+          "skills": [
+            "identify, recall and select the mathematical facts, concepts and techniques needed to solve an extended problem or conduct an investigation in a variety of contexts",
+            "recall, select and use standard mathematical models to represent practical situations",
+            "use specific models to comment on particular situations being analysed and to make predictions",
+            "interpret and report the results of applying these models in terms of the context of the problem being solved, including discussing the assumptions underlying the use of such models"
+          ]
         }
       ]
     },
@@ -301,7 +875,269 @@
             "qualitative features of time series plots; recognition of features such as trend (long-term direction), seasonality (systematic, calendar related movements) and irregular fluctuations (unsystematic, short-term fluctuations); possible outliers and their sources, including one-off real-world events, and signs of structural change such as a discontinuity in the time series",
             "numerical smoothing of time series data using moving means with consideration of the number of terms required (using centring when appropriate) to help identify trends in time series plot with large fluctuations",
             "graphical smoothing of time series plots using moving medians (involving an odd number of points only) to help identify long-term trends in time series with large fluctuations",
-            "seasonal adjustment including the use and interpretation of seasonal indices and their calculation using seasonal and yearly means"
+            "seasonal adjustment including the use and interpretation of seasonal indices and their calculation using seasonal and yearly means",
+            "modelling trend by fitting a least squares line to a time series with time as the explanatory variable (data de-seasonalised where necessary), and the use of the model to make forecasts (with re-seasonalisation where necessary) including consideration of the possible limitations of fitting a linear model and the limitations of extending into the future."
+          ]
+        },
+        {
+          "name": "Functions, relations and graphs",
+          "number": 1,
+          "description": "In this area of study students cover transformations of the plane and the behaviour of some elementary functions of a single real variable, including key features of their graphs such as axis intercepts, stationary points, points of inflection, domain (including maximal, implied or natural domain), co-domain and range, asymptotic behaviour and symmetry. The behaviour of functions and their graphs is to be explored in a variety of modelling contexts and theoretical investigations.",
+          "points": [
+            "graphs of polynomial functions and their key features",
+            "graphs of the following functions: power functions, $y = x^{n},n \\in Q$; exponential functions, $y = a^{x},a \\in R^{+}$, in particular $y = e^{x}$; logarithmic functions, $y = \\log_{e}(x)$ and $y = \\log_{10}(x)$; and circular functions,\\",
+            "transformation from $y = f(x)$ to $y = Af\\left( n(x + b) \\right)$, where $A,n,b$ and $c \\in R$, $A,n \\neq 0$, and $f$ is one of the functions specified above, and the inverse transformation",
+            "the relation between the graph of an original function and the graph of a corresponding transformed function (including families of transformed functions for a single transformation parameter)",
+            "graphs of sum, difference, product and composite functions involving functions of the types specified above (not including composite functions that result in reciprocal or quotient functions)",
+            "modelling of practical situations using polynomial, power, circular, exponential and logarithmic functions, simple transformation and combinations of these functions, including simple piecewise (hybrid) functions."
+          ]
+        },
+        {
+          "name": "Algebra, number and structure",
+          "number": 2,
+          "description": "In this area of study students cover the algebra of functions, including composition of functions, inverse functions and the solution of equations. They also study the identification of appropriate solution processes for solving equations, and systems of simultaneous equations, presented in various forms. Students also cover recognition of equations and systems of equations that are solvable using inverse operations or factorisation, and the use of graphical and numerical approaches for problems involving equations where exact value solutions are not required, or which are not solvable by other methods. This content is to be incorporated as applicable to the other areas of study.",
+          "points": [
+            "solution of polynomial equations with real coefficients of degree $n$ having up to $n$ real solutions, including numerical solutions",
+            "functions and their inverses, including conditions for the existence of an inverse function, and use of inverse functions to solve equations involving exponential, logarithmic, circular and power functions",
+            "composition of functions, where $f$ composite $g$, $f \\circ g,\\ $ is defined by $(f \\circ g)(x) = f\\left( g(x) \\right)\\ $given $r_{g} \\subseteq d_{f}$",
+            "solution of equations of the form $f(x) = g(x)$ over a specified interval, where $f$ and $g$ are functions of the type specified in the 'Functions, relations and graphs' area of study, by graphical, numerical and algebraic methods, as applicable",
+            "solution of literal equations and general solution of equations involving a single parameter",
+            "solution of simple systems of simultaneous linear equations, including consideration of cases where no solution or an infinite number of possible solutions exist (geometric interpretation only required for two equations in two variables)."
+          ]
+        },
+        {
+          "name": "Calculus",
+          "number": 3,
+          "description": "In this area of study students cover graphical treatment of limits, continuity and differentiability of functions of a single real variable, and differentiation, anti-differentiation and integration of these functions. This material is to be linked to applications in practical situations.",
+          "points": [
+            "deducing the graph of the derivative function from the graph of a given function and deducing the graph of an anti-derivative function from the graph of a given function",
+            "derivatives of $x^{n}$ for $n \\in Q$, $e^{x}$, $\\log_{e}(x)$, $sin(x)$, $\\cos(x)\\ $and $tan(x)$",
+            "derivatives of $f(x) \\pm g(x)$, $f(x) \\times g(x)$, $\\frac{f(x)}{g(x)}$ and $(f \\circ g)(x)$ where $f$ and $g$ are polynomial functions exponential, circular, logarithmic or power functions and transformations or simple combinations of these functions",
+            "application of differentiation to graph sketching and identification of key features of graphs, including stationary points and points of inflection, and intervals over which a function is strictly increasing or strictly decreasing",
+            "identification of local maximum/minimum values over an interval and application to solving optimisation problems in context, including identification of interval endpoint maximum and minimum values",
+            "anti-derivatives of polynomial functions and functions of the form $f(ax + b)$ where $f$ is $x^{n}$, for $n \\in Q$, $e^{x}$, $\\sin(x)$, $\\cos(x)$ and linear combinations of these",
+            "informal consideration of the definite integral as a limiting value of a sum involving quantities such as area under a curve and approximation of definite integrals using the trapezium rule",
+            "anti-differentiation by recognition that $F^{'}(x) = f(x)$ implies $\\int_{}^{}{f(x)dx} = F(x) + c$ and informal treatment of the fundamental theorem of calculus, $\\int_{a}^{b}{f(x)dx = F(b) - F(a)}$",
+            "properties of anti-derivatives and definite integrals",
+            "application of integration to problems involving finding a function from a known rate of change given a boundary condition, calculation of the area of a region under a curve and simple cases of areas between curves, average value of a function and other situations."
+          ]
+        },
+        {
+          "name": "Data analysis, probability and statistics",
+          "number": 4,
+          "description": "In this area of study students cover discrete and continuous random variables, their representation using tables, probability functions (specified by rule and defining parameters as appropriate); the calculation and interpretation of central measures and measures of spread; and statistical inference for sample proportions. The focus is on understanding the notion of a random variable, related parameters, properties and application and interpretation in context for a given probability distribution.",
+          "points": [
+            "random variables, including the concept of a random variable as a real function defined on a sample space and examples of discrete and continuous random variables",
+            "discrete random variables:",
+            "specification of probability distributions for discrete random variables using graphs, tables and probability mass functions",
+            "calculation and interpretation of mean, $\\mu$, variance, $\\sigma^{2},\\ $ and standard deviation of a discrete random variable and their use",
+            "Bernoulli trials and the binomial distribution, $Bi(n,\\ p)$, as an example of a probability distribution for a discrete random variable",
+            "effect of variation in the value(s) of defining parameters on the graph of a given probability mass function for a discrete random variable",
+            "calculation of probabilities for specific values of a random variable and intervals defined in terms of a random variable, including conditional probability",
+            "continuous random variables:",
+            "construction of probability density functions from non-negative functions of a real variable",
+            "specification of probability distributions for continuous random variables using probability density functions",
+            "calculation and interpretation of mean, $\\mu$, variance, $\\sigma^{2},\\ $ and standard deviation of a continuous random variable and their use",
+            "standard normal distribution, $N(0,\\ 1)$, and transformed normal distributions, $N(\\mu,\\ \\sigma^{2})$, as examples of a probability distribution for a continuous random variable",
+            "effect of variation in the value(s) of defining parameters on the graph of a given probability density function for a continuous random variable",
+            "calculation of probabilities for intervals defined in terms of a random variable, including conditional probability (the cumulative distribution function may be used but is not required)",
+            "statistical inference, including definition and distribution of sample proportions, simulations and confidence intervals:",
+            "distinction between a population parameter and a sample statistic and the use of the sample statistic to estimate the population parameter",
+            "simulation of random sampling, for a variety of values of $p$ and a range of sample sizes, to illustrate the distribution of $\\widehat{P}$ and variations in confidence intervals between samples",
+            "concept of the sample proportion $\\widehat{P} = \\frac{X}{n}$ as a random variable whose value varies between samples,",
+            "approximate normality of the distribution of $\\widehat{P}$ for large samples and, for such a situation, the mean",
+            "determination and interpretation of, from a large sample, an approximate confidence interval $\\left( \\widehat{p} - z\\sqrt{\\frac{\\widehat{p\\ }(1 - \\widehat{p\\ })\\ }{n}},\\widehat{p} + z\\sqrt{\\frac{\\widehat{p\\ }(1 - \\widehat{p})\\ }{n}} \\right)$, for a population proportion where $z\\ $is the appropriate quantile for the standard normal distribution, in particular the 95% confidence interval as an example of such an interval where $z \\approx 1.96$ (the term standard error may be used but is not required)."
+          ]
+        },
+        {
+          "name": "Discrete mathematics",
+          "number": 1,
+          "description": "Logic and proof",
+          "points": [
+            "conjecture -- making a statement to be proved or disproved",
+            "implications, equivalences and if and only if statements (necessary and sufficient conditions)",
+            "natural deduction and proof techniques: direct proofs using a sequence of direct implications, proof by cases, proof by contradiction, and proof by contrapositive",
+            "quantifiers 'for all' and 'there exists', examples and counter-examples",
+            "proof by mathematical induction."
+          ]
+        },
+        {
+          "name": "Functions, relations and graphs",
+          "number": 2,
+          "description": "In this area of study students cover rational functions and other simple quotient functions, curve sketching of these functions and relations, and the analysis of key features of their graphs including intercepts, asymptotic behaviour and the nature and location of stationary points and points of inflection and symmetry.",
+          "points": [
+            "rational functions and the expression of rational functions of low degree as sums of partial fractions",
+            "graphs of rational functions of low degree, their asymptotic behaviour, and the nature and location of stationary points and points of inflection",
+            "graphs of simple quotient functions, their asymptotic behaviour, and the nature and location of stationary points and points of inflection."
+          ]
+        },
+        {
+          "name": "Algebra, number and structure",
+          "number": 3,
+          "description": "Complex numbers",
+          "points": [
+            "De Moivre's theorem, proof for integral powers, powers and roots of complex numbers in polar form, and their geometric representation and interpretation",
+            "the $n\\ th\\ $ roots of unity and other complex numbers and their location in the complex plane",
+            "factors over *C*, of polynomials; and introduction to the fundamental theorem of algebra, including\\",
+            "solution over *C* of polynomial equations by completing the square, use of the quadratic factorisation and the conjugate root theorem."
+          ]
+        },
+        {
+          "name": "Calculus",
+          "number": 4,
+          "description": "In this area of study students cover the advanced calculus techniques for analytical and numerical differentiation and integration of a broad range of functions, and combinations of functions; and their application in a variety of theoretical and practical situations, including curve sketching, evaluation of arc length, area and volume, differential equations and kinematics, and modelling with differential equations drawing from a variety of fields such as biology, economics and science.",
+          "points": [
+            "the relationship between the graph of a function and the graphs of its anti-derivative functions",
+            "derivatives of inverse circular functions",
+            "second derivatives, use of notations $f''(x)$ and $\\frac{d^{2}y}{dx^{2}}$, and their application to the analysis of graphs of",
+            "applications of chain rule to related rates of change and implicit differentiation; for example, implicit differentiation of the relations $x^{2} + y^{2} = 9,\\ 3xy^{2} = x + y$ and $x\\ sin(y) + x^{2}\\cos(y) = 1$",
+            "techniques of anti-differentiation and for the evaluation of definite integrals:",
+            "anti-differentiation of $\\frac{1}{x}$ to obtain $\\log_{e}|x|$",
+            "anti-differentiation of $\\frac{1}{\\sqrt{a^{2} - x^{2}}}\\ $and $\\frac{a}{a^{2} + x^{2}}\\ $for $a > 0$ by recognition that they are derivatives of",
+            "use of the substitution $u = g(x)\\ $to anti-differentiate expressions",
+            "use of the trigonometric identities $\\sin^{2}(ax) = \\ \\frac{1}{2}(1 - cos(2ax)$ and $\\cos^{2}(ax) = \\ \\frac{1}{2}(1 + \\ cos(2ax$) in",
+            "anti-differentiation using partial fractions of rational functions",
+            "integration by parts",
+            "numerical and symbolic integration using technology",
+            "application of integration, areas of regions bounded by curves, arc lengths for parametrically determined curves, surface area of solids of revolution, volumes of solids of revolution of a region about either coordinate axis.",
+            "formulation of differential equations from contexts in, for example, chemistry, biology and economics, in situations where rates are involved (including some differential equations whose analytic solutions are not required, but can be solved numerically using technology)",
+            "the logistic differential equation",
+            "verification of solutions of differential equations and their representation using direction (slope) fields",
+            "solution of simple differential equations of the form $\\frac{dy}{dx} = f(x),\\ \\frac{dy}{dx} = g(y)\\ $and in general differential equations of the form $\\frac{dy}{dx} = f(x)g(y)$ using separation of variables and differential equations of the form $\\frac{d^{2}y}{dx^{2}} = f(x)$",
+            "numerical solution by Euler's method (first order approximation).",
+            "use of velocity--time graphs to describe and analyse rectilinear motion",
+            "application of differentiation, anti-differentiation and solution of differential equations to rectilinear motion of a single particle, including the different derivative forms for acceleration $a = \\frac{d^{2}x}{dt^{2}} = \\frac{dv}{dt} = v\\frac{dv}{dx} = \\frac{d}{dx}\\left( \\frac{1}{2}v^{2} \\right)$."
+          ]
+        },
+        {
+          "name": "Space and measurement",
+          "number": 5,
+          "description": "In this area of study students cover the arithmetic and algebra of vectors; linear dependence and independence of a set of vectors; proof of geometric results using vectors; vector representation of curves in the plane and their parametric and Cartesian equations; vector kinematics in one, two and three dimensions; vector, parametric and Cartesian equations of lines and planes.",
+          "points": [
+            "addition and subtraction of vectors and their multiplication by a scalar, position vectors",
+            "linear dependence and independence of a set of vectors and geometric interpretation",
+            "magnitude of a vector, unit vector, the orthogonal unit vectors $i,j,\\text{ and }k$",
+            "resolution of a vector into rectangular components",
+            "scalar (dot) product of two vectors, deduction of dot product for the $\\mathbf{i},\\mathbf{j},\\text{ and }\\mathbf{k}$ vector system and its use to find scalar resolute and vector resolute",
+            "vector (cross) product of two vectors in three dimensions, including the determinant form",
+            "parallel and perpendicular vectors",
+            "vector proofs of simple geometric results, such as 'the diagonals of a rhombus are perpendicular', 'the medians of a triangle are concurrent' and 'the angle subtended by a diameter in a circle is a right angle'.",
+            "vector equations and parametric equations of curves in two or three dimensions involving a parameter (and the corresponding Cartesian equation in the two-dimensional case)",
+            "vector equation of a straight line, given the position of two points, or equivalent information, in both two and three dimensions",
+            "vector cross product, normal to a plane and vector, parametric and Cartesian equations of a plane.",
+            "position vector as a function of time and sketching the corresponding path given the function, including circles, ellipses and hyperbolas in Cartesian or parametric forms",
+            "the positions of two particles each described as a vector function of time, and whether their paths cross or if the particles meet",
+            "differentiation and anti-differentiation of a vector function with respect to time and applying vector calculus to motion in a plane and in three dimensions."
+          ]
+        },
+        {
+          "name": "Data analysis, probability and statistics",
+          "number": 6,
+          "description": "In this area of study students cover the study of linear combinations of random variables and introductory statistical inference with respect to the mean of a single population, the determination of confidence intervals, and hypothesis testing for the mean using the distribution of sample means.",
+          "points": [
+            "for $n$ independent identically distributed random variables $X_{1},\\ X_{2}\\ \\ldots X_{n}$ each with mean $\\mu$ and variance $\\sigma^{2}$:",
+            "${E(X}_{1} + \\ X_{2} + \\ldots{+ \\ X}_{n}) = n\\mu$",
+            "${Var(X}_{1} + \\ X_{2} + \\ldots{+ \\ X}_{n}) = n\\sigma^{2}$",
+            "for $n$ independent random variables $X_{1},\\ X_{2}\\ \\ldots X_{n}$and real numbers $a_{1},\\ a_{2}\\ldots\\ a_{n}$:",
+            "$E({a_{1}X}_{1} + \\ {a_{2}X}_{2} + \\ldots{+ \\ a_{n}X}_{n}\\ ) = {a_{1}E(X}_{1)} + \\ {a_{2}E(X}_{2}) + \\ldots{+ \\ a_{n}E(X}_{n})\\ $",
+            "$Var({a_{1}X}_{1} + \\ {a_{2}X}_{2} + \\ldots{+ \\ a_{n}X}_{n}\\ ) = {{a_{1}}^{2}Var(X}_{1}) + \\ {{a_{2}}^{2}Var(X}_{2}) + \\ldots{+ \\ {a_{n}}^{2}Var(X}_{n})\\ $",
+            "for $n$ normally distributed independent random variables $X_{1},\\ X_{2}\\ \\ldots X_{n}\\ $and real numbers $a_{1},\\ a_{2}\\ldots\\ a_{n}$ the random variable ${a_{1}X}_{1} + \\ {a_{2}X}_{2} + \\ldots{+ \\ a_{n}X}_{n}$ is also normally distributed.",
+            "the concept of the sample mean $\\overline{X}$ as a random variable whose value varies between samples where $X$\\",
+            "simulation of repeated random sampling, from a variety of distributions and a range of sample sizes,\\",
+            "determination of confidence intervals for means and the use of simulation to illustrate variations in confidence intervals between samples and to show that the likelihood of a confidence interval containing $\\mu$ depends on the level of confidence chosen in the determination of the interval",
+            "construction of an approximate confidence interval, $(\\overline{x} - z\\frac{\\sigma}{\\sqrt{n}},\\ \\overline{x} + z\\frac{\\sigma}{\\sqrt{n}})$ where $\\sigma$ is the population standard deviation and $z$ is the appropriate quantile for the standard normal distribution or construction of an approximate confidence interval $(\\overline{x} - z\\frac{s}{\\sqrt{n}},\\ \\overline{x} + z\\frac{s}{\\sqrt{n}}$) where $s$ is the sample standard deviation and $z$ is the appropriate quantile for the standard normal distribution, and $n$ is large ($n$ ≥ 30 in many practical contexts).",
+            "concepts of null hypothesis, $H_{0}$, and alternative hypotheses, $H_{1}$, test statistic",
+            "level of significance and $p$-value",
+            "formulation of hypotheses and making a decision concerning a population mean based on:",
+            "a random sample from a normal population of known variance",
+            "a large random sample from any population",
+            "1-tail and 2-tail tests",
+            "interpretation of the results of a hypothesis test in the context of the problem",
+            "hypothesis test, relating the formulation, conduct, errors and results in terms of conditional probability."
+          ]
+        }
+      ],
+      "outcomes": [
+        {
+          "knowledge": [
+            "types of data: categorical (nominal and ordinal) and numerical (discrete and continuous)",
+            "frequency tables, bar charts including segmented bar charts, histograms, stem plots, dot plots, and their application in the context of displaying and describing distributions",
+            "logarithmic (base 10) scales, and their purpose and application",
+            "the five-number summary and boxplots (including the designation and display of possible outliers)",
+            "mean $\\overline{x}$ and sample standard deviation $s = \\sqrt{\\frac{\\sum_{}^{}{(x - \\overline{x})}^{2}}{n - 1}}$",
+            "the normal model and the 68--95--99.7% rule, and standardised values ($z$-scores)",
+            "response and explanatory variables",
+            "two-way frequency tables, segmented bar charts, back-to-back stem plots, parallel boxplots, and scatterplots, and their application in the context of identifying and describing associations",
+            "correlation coefficient, $r$, its interpretation, the issue of correlation and cause and effect",
+            "coefficient of determination, its interpretation",
+            "least squares line and its use in modelling linear associations",
+            "data transformation and its purpose",
+            "time series data and its analysis",
+            "the use of first-order linear recurrence relations to model growth and decay problems in financial contexts",
+            "the use of first-order linear recurrence relations to model flat rate and unit cost, and reduce balance depreciation of an asset over time, including the rule for the future value of the asset after $n$ depreciation periods",
+            "the concepts of financial mathematics including simple and compound interest, nominal and effective interest rates, the present and future value of an investment, loan or asset, amortisation of a reducing balance loan or annuity and amortisation tables",
+            "the use of first-order linear recurrence relations to model compound interest investments and loans, and the flat rate, unit cost and reducing balance methods for depreciating assets, reducing balance loans, annuities, perpetuities and annuity investments",
+            "the order of a matrix, types of matrices (row, column, square, diagonal, symmetric, triangular, zero, binary, permutation and identity), the transpose of a matrix, and elementary matrix operations (sum, difference, multiplication of a scalar, product and power)",
+            "the inverse of a matrix and the condition for a matrix to have an inverse, including determinant",
+            "for transition matrices, assuming the next state only relies on the current state with a fixed population",
+            "communication and dominance matrices and their application",
+            "transition diagrams and transition matrices and regular transition matrices and their identification",
+            "the conventions, terminology, properties and types of graphs; edge, face, loop, vertex, the degree of\\",
+            "the exploring and travelling problem, walks, trails, paths, Eulerian trails and circuits, and Hamiltonian paths and cycles",
+            "the minimum connector problem, trees, spanning trees and minimum spanning trees and Prim's algorithm",
+            "the flow problem, and the minimum cut/maximum flow theorem",
+            "the shortest path problem and Dijkstra's algorithm",
+            "the matching problem and the Hungarian algorithm",
+            "the scheduling problem and critical path analysis"
+          ],
+          "skills": [
+            "construct frequency tables and bar charts and use them to describe and interpret the distributions of categorical variables",
+            "answer statistical questions that require a knowledge of the distribution(s) of one or more categorical variables",
+            "construct stem and dot plots, boxplots, histograms and appropriate summary statistics and use them to describe and interpret the distributions of numerical variables",
+            "answer statistical questions that require a knowledge of the distribution(s) of one or more numerical variables",
+            "solve problems using $z$-scores and the 68--95--99.7% rule",
+            "construct two-way tables and use them to identify and describe associations between two categorical variables",
+            "construct parallel boxplots and use them to identify and describe associations between a numerical variable and a categorical variable",
+            "construct scatterplots and use them to identify and describe associations between two numerical variables",
+            "calculate the correlation coefficient, $r$, and interpret it in the context of the data",
+            "answer statistical questions that require a knowledge of the associations between pairs of variables",
+            "determine the equation of the least squares line giving the coefficients correct to a required number of decimal places or significant figures as specified, and distinguish between correlation and causation",
+            "use the least squares line of best fit to model and analyse the linear association between two numerical variables and interpret the model in the context of the association being modelled",
+            "calculate the coefficient of determination, $r^{2}$ , and interpret in the context of the association being modelled and use the model to make predictions, being aware of the problem of extrapolation",
+            "construct a residual analysis to test the assumption of linearity and, in the case of clear non-linearity, transform the data to achieve linearity and repeat the modelling process using the transformed data",
+            "identify key qualitative features of a time series plot including trend (using smoothing if necessary), seasonality, irregular fluctuations and outliers, and interpret these in the context of the data",
+            "calculate, interpret and apply seasonal indices",
+            "model linear trends using the least squares line of best fit, interpret the model in the context of the trend being modelled, use the model to make forecasts with consideration of the limitations of extending forecasts too far into the future",
+            "model and analyse growth and decay in financial contexts using a first-order linear recurrence relation of the form: $u_{0} = a,u_{n + 1} = Ru_{n} + d$ where $a,\\ R$ and $d$ are constants",
+            "demonstrate the use of a recurrence relation to determine the depreciating value of an asset or the future value of an investment or a loan after $n\\ $time periods for the initial sequence",
+            "use a rule for the future value of a compound interest investment or loan, or a depreciating asset, to solve practical problems",
+            "use a table to investigate and analyse on a step--by-step basis the amortisation of a reducing balance loan or an annuity, and interpret amortisation tables",
+            "use technology with financial mathematics capabilities, to solve practical problems associated with compound interest investments and loans, reducing balance loans, annuities and perpetuities, and annuity investments",
+            "use matrix recurrence relations to generate a sequence of state matrices, including an informal identification of the equilibrium or steady state matrix in the case of regular state matrices",
+            "construct a transition matrix from a transition diagram or a written description and vice versa",
+            "construct a transition matrix to model the transitions in a population with an equilibrium state",
+            "use matrix recurrence relations to model populations with culling and restocking",
+            "construct graphs, digraphs and networks and their matrix equivalents to model and analyse practical situations",
+            "recognise the exploring and travelling problem and to solve it by utilising the concepts of walks, trails, paths, Eulerian trails and circuits, and Hamiltonian paths and cycles",
+            "recognise the minimum connector problem and solve it by utilising the properties of trees, spanning trees and by determining a minimum spanning tree by inspection or using Prim's algorithm for larger scale problems",
+            "recognise the flow problem, use networks to model flow problems and determine the minimum flow problem by inspection, or by using the minimum cut/maximum flow theorem for larger scale problems",
+            "recognise the shortest path problem and solve it by inspection or using Dijkstra's algorithm for larger scale problems",
+            "recognise the matching problem and solve it by inspection or using the Hungarian algorithm for larger scale problems",
+            "recognise the scheduling problem and solve it by using critical path analysis"
+          ]
+        },
+        {
+          "knowledge": [
+            "the facts, concepts and techniques associated with data analysis, recursion and financial modelling, matrices and networks and decision mathematics",
+            "standard models studied in data analysis, recursion and financial modelling, matrices, and networks and decision mathematics, and their areas of application",
+            "general formulation of the concepts, techniques and models studied in data analysis, recursion and financial modelling, matrices, and networks and decision mathematics",
+            "assumptions and conditions underlying the use of the concepts, techniques and models associated with data analysis, recursion and financial modelling, matrices, and networks and decision mathematics"
+          ],
+          "skills": [
+            "identify, recall and select facts, concepts, models and techniques needed to investigate and analyse statistical features of a data set with several variables that can include time series data",
+            "select and implement standard financial models to investigate and analyse a financial or mathematically equivalent non-financial situation that requires the use of increasingly sophisticated models to complete the analysis",
+            "identify, recall and select the mathematical concepts, models and techniques needed to solve an extended problem or conduct an investigation in a variety of contexts related to matrices and networks and decision mathematics",
+            "interpret and report the results of a statistical investigation or of completing a modelling or problem-solving task in terms of the context under consideration, including discussing the assumptions in application of these models"
           ]
         }
       ]
@@ -359,6 +1195,59 @@
             "combinations including the concept of a selection and computation of $\\binom{n}{r}$ and the application of counting techniques to probability."
           ]
         }
+      ],
+      "outcomes": [
+        {
+          "knowledge": [
+            "the definition of a function, the concepts of domain (including maximal, natural or implied domain),\\",
+            "the key features and properties of power and polynomial functions and their graphs, including any vertical or horizontal asymptotes",
+            "the effect of transformations of the plane, dilation, reflection in axes, translation and simple combinations of these transformations, on the graphs of functions",
+            "the relation between the graph of a one-to-one function, its inverse function and reflection in the line $y = x$",
+            "representations of points and transformations",
+            "factorisation patterns, the quadratic formula and discriminant, the remainder, factor and rational root theorems and the null factor law",
+            "the exponent laws",
+            "average and instantaneous rates of change and their interpretation with respect to the graphs of functions",
+            "forms of representation of sample spaces and events",
+            "the properties that probabilities for a given sample space are non-negative and the sum of these probabilities is one",
+            "counting techniques and their application to probability"
+          ],
+          "skills": [
+            "specify the rule, domain (including maximal, natural or implied domain), co-domain, and range of a function and identify whether or not a relation is a function",
+            "substitute integer, simple rational and irrational numbers in exact form into expressions, including rules of functions and relations, and evaluate these by hand",
+            "re-arrange and solve simple algebraic equations and inequalities by hand",
+            "expand and factorise linear and simple quadratic expressions with integer coefficients by hand",
+            "express $ax^{2} + bx + c\\ $in completed square form where $a,b,c \\in Z$ and $a \\neq 0$, by hand",
+            "express a cubic polynomial $p(x)$, with integer coefficients, in the form $p(x) = (x - a)q(x) + r$ and determine $\\frac{p(x)}{x - a}$, by hand",
+            "use algebraic, graphical and numerical approaches, including the factor theorem and the bisection method algorithm, to determine and verify solutions to equations over a specified interval",
+            "apply distributive and exponent laws to manipulate and simplify expressions involving polynomial and power function, by hand in simple cases",
+            "set up and solve systems of simultaneous linear equations involving up to four unknowns, including by hand for a system of two equations in two unknowns",
+            "sketch by hand graphs of linear, quadratic and cubic polynomial functions, and quartic polynomial functions in factored form (approximate location of stationary points only for cubic and quartic functions), including cases where an x-axis intercept is a touch point or a stationary point of inflection",
+            "sketch by hand graphs of power functions $f(x) = x^{n}$ where $n \\in \\text{\\{} - 2, - 1,\\frac{1}{3},\\frac{1}{2},1,2,3,4\\text{\\}}$ and simple transformations of these, and identify any vertical or horizontal asymptotes",
+            "draw graphs of polynomial functions of low degree, simple power functions and simple relations that are not functions",
+            "describe the effect of transformations on the graphs of relations and functions",
+            "sketch the graph of the inverse function of a one-to-one function given its graph",
+            "use graphical, numerical and algebraic approaches to find an approximate value or the exact value\\",
+            "set up probability simulations, and describe the notions of randomness and variability, and their relation to events",
+            "apply counting techniques to solve probability problems and calculate probabilities for compound events, by hand in simple cases"
+          ]
+        },
+        {
+          "knowledge": [
+            "key mathematical content from one or more areas of study related to a given context",
+            "specific and general formulations of concepts used to derive results for analysis within a given context",
+            "the role of examples, counter-examples and general cases in working mathematically",
+            "key elements of algorithm design: sequencing, decision-making, repetition and representation including the use of pseudocode",
+            "inferences from analysis and their use to draw valid conclusions related to a given context"
+          ],
+          "skills": [
+            "specify the relevance of key mathematical content from one or more areas of study to the investigation of various questions in a given context",
+            "identify important information, variables, constraints and other key features to the investigation of various questions in a given context",
+            "develop mathematical formulations of specific and general cases used to derive results for analysis within a given context",
+            "use a variety of techniques to verify results",
+            "make inferences from analysis and use these to draw valid conclusions related to a given context",
+            "communicate results and conclusions using both mathematical expression and everyday language,\\"
+          ]
+        }
       ]
     },
     "2": {
@@ -414,6 +1303,57 @@
             "the law of total probability for two events $\\Pr(A) = Pr\\left( A \\middle| B \\right)\\Pr(B) + Pr\\left( A \\middle| B^{'} \\right)\\Pr\\left( B^{'} \\right)$",
             "the relations for pairwise independent events $A$ and $B$, $\\Pr\\left( A \\middle| B \\right) = Pr(A),Pr\\left( B \\middle| A \\right) = Pr(B)$ and $\\Pr(A \\cap B) = Pr(A) \\times \\Pr(B)$",
             "simulation to estimate probabilities involving selection with and without replacement."
+          ]
+        }
+      ],
+      "outcomes": [
+        {
+          "knowledge": [
+            "the unit circle and exact values of sine, cosine and tangent for $0,\\frac{\\pi}{6},\\frac{\\pi}{4},\\frac{\\pi}{3},\\frac{\\pi}{2}$ (and their degree equivalents) and integer multiples of these",
+            "$\\sin(x) \\approx x$ for small values of $x$",
+            "the key features and properties of the circular functions sine, cosine and tangent, and their graphs, including any vertical asymptotes",
+            "the effect of transformations of the plane on the graphs of sine, cosine, tangent and exponential functions",
+            "characteristics of data which suggest the use of sine, cosine, exponential or logarithmic functions as an appropriate type of model for a given context",
+            "the key features and properties of the exponential functions, logarithmic functions and their graphs, including any vertical or horizontal asymptotes",
+            "the relationship between an exponential function to a given base and the logarithmic function to the same base as inverse functions",
+            "the limit definition of the derivative of a function, the central difference approximation, and the derivative as the rate of change or gradient function of a given function",
+            "informal concepts of limit, continuity and differentiability",
+            "the sign of the gradient at and near a point and its interpretation in terms of key features of a graph of simple polynomial functions",
+            "the rules for finding derivatives and anti-derivatives of simple polynomial functions",
+            "representations of compound events, the addition rule for probability, the concepts of mutually exclusive and independent events, conditional probability and the law of total probability"
+          ],
+          "skills": [
+            "sketch by hand the unit circle, graphs of the sine, cosine and exponential functions, and simple transformations of these to the form $Af(bx) + c$, sketch by hand graphs of $\\log_{a}(x)$ and the tangent function, and identify any vertical or horizontal asymptotes",
+            "draw graphs of circular, exponential and simple logarithmic functions over a given domain and identify and discuss key features and properties of these graphs, including any vertical or horizontal asymptotes",
+            "describe the effect of transformations of the plane on the graphs of the sine, cosine, tangent and exponential functions",
+            "solve simple equations over a specified interval related to circular, exponential and simple logarithmic functions using graphical, numerical and analytical approaches",
+            "use the algorithm for Newton's method to find a numerical approximation to a root of a cubic polynomial function",
+            "recognise characteristics of data which suggest that a circular or exponential function is an appropriate model for the data",
+            "evaluate limit values of a function",
+            "use a variety of approaches to find the value of the derivative of a function at a given point",
+            "find by hand the derivative function and an anti-derivative function for a polynomial function of low degree",
+            "use derivatives to assist in the sketching of graphs of simple polynomial functions and to solve simple maximum and minimum optimisation problems",
+            "find a family of anti-derivative functions for a given polynomial function, and determine a specific antiderivative given a boundary condition",
+            "calculate probabilities for compound events using rules and tree diagrams, by hand in simple cases",
+            "solve probability problems involving tree diagrams, by hand in simple cases",
+            "set up probability simulations to estimate probabilities for selection with and without replacement"
+          ]
+        },
+        {
+          "knowledge": [
+            "key mathematical content from one or more areas of study related to a given context",
+            "specific and general formulations of concepts used to derive results for analysis within a given context",
+            "the role of examples, counter-examples and general cases in working mathematically",
+            "key elements of algorithm design: sequencing, decision-making, repetition, and representation including the use of pseudocode",
+            "inferences from analysis and their use to draw valid conclusions related to a given context"
+          ],
+          "skills": [
+            "specify the relevance of key mathematical content from one or more areas of study to the investigation of various questions in a given context",
+            "identify important information, variables, constraints and other key features to the investigation of various questions in a given context",
+            "develop mathematical formulations of specific and general cases used to derive results for analysis within a given context",
+            "use a variety of techniques to verify results",
+            "make inferences from analysis and use these to draw valid conclusions related to a given context",
+            "communicate results and conclusions using both mathematical expression and everyday language, in particular, the interpretation of mathematics with respect to a context"
           ]
         }
       ]
@@ -490,6 +1430,176 @@
             "approximate normality of the distribution of $\\widehat{P}$ for large samples and, for such a situation, the mean",
             "determination and interpretation of, from a large sample, an approximate confidence interval $\\left( \\widehat{p} - z\\sqrt{\\frac{\\widehat{p\\ }(1 - \\widehat{p\\ })\\ }{n}},\\widehat{p} + z\\sqrt{\\frac{\\widehat{p\\ }(1 - \\widehat{p})\\ }{n}} \\right)$, for a population proportion where $z\\ $is the appropriate quantile for the standard normal distribution, in particular the 95% confidence interval as an example of such an interval where $z \\approx 1.96$ (the term standard error may be used but is not required)."
           ]
+        },
+        {
+          "name": "Discrete mathematics",
+          "number": 1,
+          "description": "Logic and proof",
+          "points": [
+            "conjecture -- making a statement to be proved or disproved",
+            "implications, equivalences and if and only if statements (necessary and sufficient conditions)",
+            "natural deduction and proof techniques: direct proofs using a sequence of direct implications, proof by cases, proof by contradiction, and proof by contrapositive",
+            "quantifiers 'for all' and 'there exists', examples and counter-examples",
+            "proof by mathematical induction."
+          ]
+        },
+        {
+          "name": "Functions, relations and graphs",
+          "number": 2,
+          "description": "In this area of study students cover rational functions and other simple quotient functions, curve sketching of these functions and relations, and the analysis of key features of their graphs including intercepts, asymptotic behaviour and the nature and location of stationary points and points of inflection and symmetry.",
+          "points": [
+            "rational functions and the expression of rational functions of low degree as sums of partial fractions",
+            "graphs of rational functions of low degree, their asymptotic behaviour, and the nature and location of stationary points and points of inflection",
+            "graphs of simple quotient functions, their asymptotic behaviour, and the nature and location of stationary points and points of inflection."
+          ]
+        },
+        {
+          "name": "Algebra, number and structure",
+          "number": 3,
+          "description": "Complex numbers",
+          "points": [
+            "De Moivre's theorem, proof for integral powers, powers and roots of complex numbers in polar form, and their geometric representation and interpretation",
+            "the $n\\ th\\ $ roots of unity and other complex numbers and their location in the complex plane",
+            "factors over *C*, of polynomials; and introduction to the fundamental theorem of algebra, including\\",
+            "solution over *C* of polynomial equations by completing the square, use of the quadratic factorisation and the conjugate root theorem."
+          ]
+        },
+        {
+          "name": "Calculus",
+          "number": 4,
+          "description": "In this area of study students cover the advanced calculus techniques for analytical and numerical differentiation and integration of a broad range of functions, and combinations of functions; and their application in a variety of theoretical and practical situations, including curve sketching, evaluation of arc length, area and volume, differential equations and kinematics, and modelling with differential equations drawing from a variety of fields such as biology, economics and science.",
+          "points": [
+            "the relationship between the graph of a function and the graphs of its anti-derivative functions",
+            "derivatives of inverse circular functions",
+            "second derivatives, use of notations $f''(x)$ and $\\frac{d^{2}y}{dx^{2}}$, and their application to the analysis of graphs of",
+            "applications of chain rule to related rates of change and implicit differentiation; for example, implicit differentiation of the relations $x^{2} + y^{2} = 9,\\ 3xy^{2} = x + y$ and $x\\ sin(y) + x^{2}\\cos(y) = 1$",
+            "techniques of anti-differentiation and for the evaluation of definite integrals:",
+            "anti-differentiation of $\\frac{1}{x}$ to obtain $\\log_{e}|x|$",
+            "anti-differentiation of $\\frac{1}{\\sqrt{a^{2} - x^{2}}}\\ $and $\\frac{a}{a^{2} + x^{2}}\\ $for $a > 0$ by recognition that they are derivatives of",
+            "use of the substitution $u = g(x)\\ $to anti-differentiate expressions",
+            "use of the trigonometric identities $\\sin^{2}(ax) = \\ \\frac{1}{2}(1 - cos(2ax)$ and $\\cos^{2}(ax) = \\ \\frac{1}{2}(1 + \\ cos(2ax$) in",
+            "anti-differentiation using partial fractions of rational functions",
+            "integration by parts",
+            "numerical and symbolic integration using technology",
+            "application of integration, areas of regions bounded by curves, arc lengths for parametrically determined curves, surface area of solids of revolution, volumes of solids of revolution of a region about either coordinate axis.",
+            "formulation of differential equations from contexts in, for example, chemistry, biology and economics, in situations where rates are involved (including some differential equations whose analytic solutions are not required, but can be solved numerically using technology)",
+            "the logistic differential equation",
+            "verification of solutions of differential equations and their representation using direction (slope) fields",
+            "solution of simple differential equations of the form $\\frac{dy}{dx} = f(x),\\ \\frac{dy}{dx} = g(y)\\ $and in general differential equations of the form $\\frac{dy}{dx} = f(x)g(y)$ using separation of variables and differential equations of the form $\\frac{d^{2}y}{dx^{2}} = f(x)$",
+            "numerical solution by Euler's method (first order approximation).",
+            "use of velocity--time graphs to describe and analyse rectilinear motion",
+            "application of differentiation, anti-differentiation and solution of differential equations to rectilinear motion of a single particle, including the different derivative forms for acceleration $a = \\frac{d^{2}x}{dt^{2}} = \\frac{dv}{dt} = v\\frac{dv}{dx} = \\frac{d}{dx}\\left( \\frac{1}{2}v^{2} \\right)$."
+          ]
+        },
+        {
+          "name": "Space and measurement",
+          "number": 5,
+          "description": "In this area of study students cover the arithmetic and algebra of vectors; linear dependence and independence of a set of vectors; proof of geometric results using vectors; vector representation of curves in the plane and their parametric and Cartesian equations; vector kinematics in one, two and three dimensions; vector, parametric and Cartesian equations of lines and planes.",
+          "points": [
+            "addition and subtraction of vectors and their multiplication by a scalar, position vectors",
+            "linear dependence and independence of a set of vectors and geometric interpretation",
+            "magnitude of a vector, unit vector, the orthogonal unit vectors $i,j,\\text{ and }k$",
+            "resolution of a vector into rectangular components",
+            "scalar (dot) product of two vectors, deduction of dot product for the $\\mathbf{i},\\mathbf{j},\\text{ and }\\mathbf{k}$ vector system and its use to find scalar resolute and vector resolute",
+            "vector (cross) product of two vectors in three dimensions, including the determinant form",
+            "parallel and perpendicular vectors",
+            "vector proofs of simple geometric results, such as 'the diagonals of a rhombus are perpendicular', 'the medians of a triangle are concurrent' and 'the angle subtended by a diameter in a circle is a right angle'.",
+            "vector equations and parametric equations of curves in two or three dimensions involving a parameter (and the corresponding Cartesian equation in the two-dimensional case)",
+            "vector equation of a straight line, given the position of two points, or equivalent information, in both two and three dimensions",
+            "vector cross product, normal to a plane and vector, parametric and Cartesian equations of a plane.",
+            "position vector as a function of time and sketching the corresponding path given the function, including circles, ellipses and hyperbolas in Cartesian or parametric forms",
+            "the positions of two particles each described as a vector function of time, and whether their paths cross or if the particles meet",
+            "differentiation and anti-differentiation of a vector function with respect to time and applying vector calculus to motion in a plane and in three dimensions."
+          ]
+        },
+        {
+          "name": "Data analysis, probability and statistics",
+          "number": 6,
+          "description": "In this area of study students cover the study of linear combinations of random variables and introductory statistical inference with respect to the mean of a single population, the determination of confidence intervals, and hypothesis testing for the mean using the distribution of sample means.",
+          "points": [
+            "for $n$ independent identically distributed random variables $X_{1},\\ X_{2}\\ \\ldots X_{n}$ each with mean $\\mu$ and variance $\\sigma^{2}$:",
+            "${E(X}_{1} + \\ X_{2} + \\ldots{+ \\ X}_{n}) = n\\mu$",
+            "${Var(X}_{1} + \\ X_{2} + \\ldots{+ \\ X}_{n}) = n\\sigma^{2}$",
+            "for $n$ independent random variables $X_{1},\\ X_{2}\\ \\ldots X_{n}$and real numbers $a_{1},\\ a_{2}\\ldots\\ a_{n}$:",
+            "$E({a_{1}X}_{1} + \\ {a_{2}X}_{2} + \\ldots{+ \\ a_{n}X}_{n}\\ ) = {a_{1}E(X}_{1)} + \\ {a_{2}E(X}_{2}) + \\ldots{+ \\ a_{n}E(X}_{n})\\ $",
+            "$Var({a_{1}X}_{1} + \\ {a_{2}X}_{2} + \\ldots{+ \\ a_{n}X}_{n}\\ ) = {{a_{1}}^{2}Var(X}_{1}) + \\ {{a_{2}}^{2}Var(X}_{2}) + \\ldots{+ \\ {a_{n}}^{2}Var(X}_{n})\\ $",
+            "for $n$ normally distributed independent random variables $X_{1},\\ X_{2}\\ \\ldots X_{n}\\ $and real numbers $a_{1},\\ a_{2}\\ldots\\ a_{n}$ the random variable ${a_{1}X}_{1} + \\ {a_{2}X}_{2} + \\ldots{+ \\ a_{n}X}_{n}$ is also normally distributed.",
+            "the concept of the sample mean $\\overline{X}$ as a random variable whose value varies between samples where $X$\\",
+            "simulation of repeated random sampling, from a variety of distributions and a range of sample sizes,\\",
+            "determination of confidence intervals for means and the use of simulation to illustrate variations in confidence intervals between samples and to show that the likelihood of a confidence interval containing $\\mu$ depends on the level of confidence chosen in the determination of the interval",
+            "construction of an approximate confidence interval, $(\\overline{x} - z\\frac{\\sigma}{\\sqrt{n}},\\ \\overline{x} + z\\frac{\\sigma}{\\sqrt{n}})$ where $\\sigma$ is the population standard deviation and $z$ is the appropriate quantile for the standard normal distribution or construction of an approximate confidence interval $(\\overline{x} - z\\frac{s}{\\sqrt{n}},\\ \\overline{x} + z\\frac{s}{\\sqrt{n}}$) where $s$ is the sample standard deviation and $z$ is the appropriate quantile for the standard normal distribution, and $n$ is large ($n$ ≥ 30 in many practical contexts).",
+            "concepts of null hypothesis, $H_{0}$, and alternative hypotheses, $H_{1}$, test statistic",
+            "level of significance and $p$-value",
+            "formulation of hypotheses and making a decision concerning a population mean based on:",
+            "a random sample from a normal population of known variance",
+            "a large random sample from any population",
+            "1-tail and 2-tail tests",
+            "interpretation of the results of a hypothesis test in the context of the problem",
+            "hypothesis test, relating the formulation, conduct, errors and results in terms of conditional probability."
+          ]
+        }
+      ],
+      "outcomes": [
+        {
+          "knowledge": [
+            "the key features and properties of a function or relation and its graph and of families of functions and relations and their graphs",
+            "the effect of transformations on the graphs of a function or relation",
+            "representations of points and transformations of the plane",
+            "the concepts of domain, maximal domain, range and asymptotic behaviour of functions",
+            "the concept of an inverse function, connection between domain and range of the original function and its inverse relation and the conditions for existence of an inverse function, including the form of the graph of the inverse function for specified functions",
+            "the concept of combined functions, and the connection between domain and range of the functions involved and the domain and range of the combined functions",
+            "the features which enable the recognition of general forms of possible models for data presented in graphical or tabular form",
+            "exponent laws and logarithm laws",
+            "analytical, graphical and numerical approaches to solving equations and the nature of corresponding solutions (real, exact or approximate) and the effect of domain restrictions",
+            "features which link the graph of a function to the graph of the corresponding gradient function or its numerical values, the tangent to a curve at a given point and how the sign and magnitude of the derivative of a function can be used to describe key features of the function and its derivative function",
+            "the sum, difference, chain, product and quotient rules for differentiation",
+            "the properties of anti-derivatives and definite integrals",
+            "the concept of approximation to the area under a curve using the trapezium rule, the ideas underlying the fundamental theorem of calculus and the relationship between the definite integral and area",
+            "the concepts of a random variable (discrete and continuous), Bernoulli trials and probability distributions, the parameters used to define a distribution and properties of probability distributions and their graphs",
+            "the conditions under which a Bernoulli trial or a probability distribution may be selected to suitably model various situations",
+            "the definition of sample proportion as a random variable and key features of the distribution of sample proportions",
+            "the concept of confidence intervals for proportions, variation in confidence intervals between samples and confidence intervals for estimates"
+          ],
+          "skills": [
+            "identify key features and properties of the graph of a function or relation and draw the graphs of specified functions and relations, clearly identifying their key features and properties, including any vertical or horizontal asymptotes",
+            "describe the effect of transformations on the graphs of a function or relation",
+            "find the rule of an inverse function and give its domain and range",
+            "find the rule of a composite function and give its domain and range",
+            "sketch by hand graphs of polynomial functions up to degree 4; simple power functions, $y = x^{n}$ where $n \\in N$, $y = a^{x}$, (using key points $\\left( - 1,\\frac{1}{a} \\right)$, $(0,\\ 1$) and $(1,a)$); $\\log_{e}(x)$; $\\log_{10}(x)$; and simple transformations\\",
+            "apply a range of analytical, graphical and numerical processes (including the algorithm for Newton's method), as appropriate, to obtain general and specific solutions (exact or approximate) to equations (including literal equations) over a given domain and be able to verify solutions to a particular equation or equations over a given domain",
+            "solve by hand equations of the form $\\sin(ax + b) = c$, $\\cos(ax + b) = c$ and$\\tan(ax + b) = c$ with exact value solutions over a given interval",
+            "apply algebraic, logarithmic and circular function properties to the simplification of expressions and the solution of equations",
+            "evaluate derivatives of basic, transformed and combined functions and apply differentiation to curve sketching and related optimisation problems",
+            "find derivatives of polynomial functions and power functions, functions of the form $f(ax + b)$ where $f$ is $x^{n}$, for $n \\in Q$, sine, cosine; tangent, $e^{x}$, or $\\log_{e}(x)$ and simple linear combinations of these, using pattern recognition, or by hand",
+            "apply the product, chain and quotient rules for differentiation to simple combinations of functions by hand",
+            "find derivatives of basic and more complicated functions and apply differentiation to curve sketching and optimisation problems",
+            "find anti-derivatives of polynomial functions and power functions, functions of the form $f(ax + b)$ where\\",
+            "evaluate approximations to the area under a curve using the trapezium rule, find and verify anti-derivatives of specified functions and evaluate definite integrals",
+            "apply definite integrals to the evaluation of the area under a curve and between curves over a specified interval",
+            "analyse a probability mass function or probability density function and the shape of its graph in terms of the defining parameters for the probability distribution and the mean and variance of the probability distribution",
+            "calculate and interpret the probabilities of various events associated with a given probability distribution, by hand in cases where simple arithmetic computations can be carried out",
+            "apply probability distributions to modelling and solving related problems",
+            "simulate repeated random sampling and interpret the results, for a variety of population proportions and a range of sample sizes, to illustrate the distribution of sample proportions and variations in confidence intervals",
+            "calculate sample proportions and approximate confidence intervals for population proportions"
+          ]
+        },
+        {
+          "knowledge": [
+            "key mathematical content from one or more areas of study related to a given context",
+            "specific and general formulations of concepts used to derive results for analysis within a given context",
+            "the role of examples, counter-examples and general cases in working mathematically",
+            "key elements of algorithm design, including sequencing, decision-making and repetition, and representations of the ordered steps for an algorithm including through the use of pseudocode",
+            "inferences from analysis and their use to draw valid conclusions related to a given context"
+          ],
+          "skills": [
+            "specify the relevance of key mathematical content from one or more areas of study to the investigation of various questions in a given context",
+            "identify important information, variables, constraints and other key features to the investigation of various questions in a given context",
+            "develop mathematical formulations of specific and general cases used to derive results for analysis within a given context",
+            "use algorithms, patterns, models and simulation to solve problems related to a given context",
+            "use a variety of techniques to verify results",
+            "make inferences from analysis and use these to draw valid conclusions related to a given context",
+            "communicate results and conclusions using both mathematical expression and everyday language, in particular, the interpretation of mathematics with respect to the context"
+          ]
         }
       ]
     }
@@ -546,6 +1656,62 @@
             "matrix notation, dimension and the use of matrices to represent data",
             "matrix operations and algebra",
             "determinants and matrix equations, and simple applications."
+          ]
+        }
+      ],
+      "outcomes": [
+        {
+          "knowledge": [
+            "sets of numbers: representations of natural numbers, integers, rational numbers and real numbers",
+            "set notations and operations",
+            "principles of proof and proof techniques: contradiction, contrapositive and counter-examples, the method of proof by mathematical induction",
+            "first-order linear recurrence relations and in particular arithmetic and geometric sequences and their partial sums",
+            "the pigeon-hole principle as a problem-solving technique, techniques of counting such as permutations and combinations, the inclusion-exclusion principle and simple combinatorial identities",
+            "matrix notation and algebra",
+            "notation, definitions and representations of graphs, types of graphs and their properties",
+            "applications of graph theory and constructions and graphs",
+            "elementary graph theory theorems and their proofs",
+            "concepts of proposition, truth value, tautology, Karnaugh maps, set and set operations",
+            "concepts of validity, argument and proof",
+            "Boolean operators, and axioms of Boolean algebra",
+            "logic gates and circuit diagrams",
+            "key elements of algorithm design: sequence, decision and repetition",
+            "the ordered steps for an algorithm from the related pseudocode",
+            "algorithms in a variety of contexts as a precise set of instructions that can be specified using pseudocode"
+          ],
+          "skills": [
+            "apply deductive reasoning, including mathematical induction, and use appropriate language, in the construction of mathematical arguments and proofs involving concepts from topics in this area of study",
+            "identify assumptions, give definitions and provide examples and counter-examples using appropriate mathematical language, diagrams and models",
+            "define and represent number in various structures and contexts such as integer, rational, real and complex number systems, ordered sets of numbers such as sequences and series",
+            "solve problems involving first order linear recurrence relations using both recursive and formula-based techniques",
+            "solve problems which involve techniques of counting",
+            "use deductive reasoning to solve problems involving counting techniques, the pigeon-hole principle and Pascal's triangle",
+            "use matrix algebra including solving matrix equations",
+            "construct graphs and use them to model situations",
+            "use algorithms to construct subsets of graphs according to conditions and solve related problems",
+            "develop and understand results, including planar graphs, trails and circuits",
+            "solve problems and prove theorems involving graphs",
+            "represent and test the truth of propositions using truth tables",
+            "develop proofs of propositions in natural language and mathematics",
+            "perform exact and approximate computations and apply algorithms including reading and interpreting algorithms described by pseudocode in various structures and contexts"
+          ]
+        },
+        {
+          "knowledge": [
+            "the application of mathematical content from one or more areas of study in a given context for investigation",
+            "specific and general formulations of concepts used to derive results for analysis within a given context for investigation",
+            "the role of proof in establishing results",
+            "the role of examples, counter-examples and general cases in developing mathematical analysis",
+            "the role of developing algorithms and expressing these through pseudocode to help determine and understand mathematical ideas and results",
+            "inferences from analysis and their use to draw valid conclusions related to a given context for investigation"
+          ],
+          "skills": [
+            "specify the relevance of key mathematical content from one or more areas of study to the investigation of various questions in a given context",
+            "develop mathematical formulations of specific and general cases used to derive results for analysis within a given context for investigation",
+            "use algorithms to solve or help solve problems",
+            "use proof to establish results rigorously in different contexts",
+            "make inferences from analysis and use these to draw valid conclusions related to a given context for investigation",
+            "communicate conclusions using both mathematical expression and everyday language; in particular,\\"
           ]
         }
       ]
@@ -618,6 +1784,65 @@
             "graphs of the restricted circular functions of sine, cosine and tangent over principal domains and their respective inverse functions sin^--1^, cos^-1^ and tan^--1^ (students should be familiar with alternative notations, arcsin, arccos and arctan), and simple transformations of these graphs",
             "locus definition and construction in the plane of lines, parabolas, circles, ellipses and hyperbolas and their Cartesian, polar and parametric forms and graphs",
             "the absolute value function, its graph and simple transformations of its graph."
+          ]
+        }
+      ],
+      "outcomes": [
+        {
+          "knowledge": [
+            "linear combination of random variables",
+            "methods of simulation applied to sampling distributions and the effect of taking larger samples from a fixed population",
+            "arc length of circles, areas of sectors and segments of circles",
+            "the reciprocal circular functions and their graphs and the restricted circular functions and their graphs",
+            "trigonometric identities",
+            "sine and cosine rules applied in two and three dimensions, including angles between planes, and congruence conditions for their application",
+            "coordinate and matrix representation of points and transformations",
+            "translations, dilation, rotations and reflections, invariance properties, inverse transformations and composition of transformations",
+            "locus definitions of curves in the plane",
+            "Cartesian, polar and parametric coordinate systems and graphs, including exact values for circular functions",
+            "standard notation and representations for vectors in the plane, including arrows, coordinates and matrices",
+            "the definition of arithmetic operations for vectors in the plane",
+            "geometrical representation of vectors and geometric and coordinate definition of the scalar product of two vectors",
+            "representation of complex numbers and the conventions for arithmetic of complex numbers in Cartesian and polar forms",
+            "regions of the complex plane",
+            "reciprocals and their properties",
+            "representation of relations by Cartesian, parametric and polar equations",
+            "the absolute value function"
+          ],
+          "skills": [
+            "simulate sampling from a population and display the results of taking multiple samples of the same size from a fixed population",
+            "consider measures of central tendency and spread of the distribution of sample means",
+            "prove trigonometric identities and use them to solve problems",
+            "prove and use the sine and cosine rules and solve problems in both two and three dimensions, including angle between planes problems",
+            "define and apply transformations to the plane and specify their effect on subsets of the plane",
+            "identify the set of points that are invariant under a given transformation",
+            "find and apply inverse transformations and composite transformations, and interpret their effects on subsets of the plane",
+            "use vectors to model situations involving direction and magnitude",
+            "apply vector operations of scalar multiples, addition, subtraction and scalar product",
+            "use vectors to solve problems involving position, displacement, velocity and force",
+            "use vectors to solve geometric problems and prove theorems",
+            "construct the graph of a reciprocal function from the graph of the original function",
+            "use the distance formula and locus definitions to obtain the rule of a relation and draw the corresponding curve in the plane",
+            "represent complex numbers and the effect of arithmetic of complex numbers in both Cartesian and polar form",
+            "graph non-linear relations in the plane from their Cartesian, polar and parametric representations, and identify and interpret their key features, including any linear asymptotes"
+          ]
+        },
+        {
+          "knowledge": [
+            "the application of mathematical content from one or more areas of study in a given context for investigation",
+            "specific and general formulations of concepts used to derive results for analysis within a given context for investigation",
+            "the role of examples, counter-examples and general cases in developing mathematical analysis",
+            "the role of proof involving the communication and justification of an argument for a mathematical statement in a clear, concise and precise manner",
+            "the role of developing algorithms and expressing these through pseudocode to help determine and understand mathematical ideas and results",
+            "inferences from analysis and their use to draw valid conclusions related to a given context for investigation"
+          ],
+          "skills": [
+            "specify the relevance of key mathematical content from one or more areas of study to the investigation of various questions in a given context",
+            "develop mathematical formulations of specific and general cases used to derive results for analysis within a given context for investigation",
+            "use algorithms to solve problems",
+            "use proof to establish mathematical results",
+            "make inferences from analysis and use these to draw valid conclusions related to a given context for investigation",
+            "communicate conclusions using both mathematical expression and everyday language; in particular,\\"
           ]
         }
       ]
@@ -730,6 +1955,64 @@
             "1-tail and 2-tail tests",
             "interpretation of the results of a hypothesis test in the context of the problem",
             "hypothesis test, relating the formulation, conduct, errors and results in terms of conditional probability."
+          ]
+        }
+      ],
+      "outcomes": [
+        {
+          "knowledge": [
+            "principles of proof and deduction techniques",
+            "the proof scheme and method for mathematical induction",
+            "functions and relations, the form of their sketch graphs and their key features, including linear asymptotes",
+            "complex numbers, Cartesian and polar forms, operations and properties and representation in the complex plane",
+            "geometric interpretation of vectors in the plane and of complex numbers in the complex plane",
+            "differentiation techniques and the meaning of first and second derivatives of a function",
+            "anti-differentiation techniques, the relationship between the graph of a function and the graph of its anti-derivative functions, and graphical interpretation of definite integrals",
+            "analytical, graphical and numerical techniques for setting up and solving equations involving functions and relations",
+            "modelling contexts for formulation of differential equations and associated solution techniques, including numerical approaches",
+            "definition and properties of vectors, vector operations, the geometric representation of vectors and the geometric interpretation of linear dependence and independence of a set of vectors",
+            "standard contexts for the application of vectors to the motion of a particle and to geometric problems",
+            "techniques for solving kinematics problems in one, two and three dimensions",
+            "the vector product and methods determining vector equations of lines and planes",
+            "systems of equations with two and three variables and their geometric interpretation",
+            "the distribution of sample means"
+          ],
+          "skills": [
+            "apply deductive reasoning and language, including mathematical induction, to mathematical arguments and proofs involving concepts and contexts from the areas of study",
+            "sketch by hand and describe behaviour of the graphs of specified functions and relations, and identify their key features, including the use of the first and second derivative",
+            "perform operations on complex numbers expressed in Cartesian form or polar form and interpret them geometrically",
+            "Interpret and apply algorithms in a variety of contexts including the use of pseudocode for representation",
+            "represent regions of an Argand diagram using complex relations",
+            "apply implicit differentiation, by hand in simple cases",
+            "use analytic techniques to find derivatives and anti-derivatives by pattern recognition, and apply anti-differentiation to evaluate definite integrals",
+            "set up and evaluate definite integrals to calculate areas, volumes, curve lengths (where described parametrically) and surface areas",
+            "set up and solve differential equations of specified forms",
+            "perform operations on vectors and interpret them geometrically",
+            "apply vectors to motion of a particle and to geometric problems",
+            "solve kinematics problems using a variety of techniques",
+            "formulate problems which require solutions with systems of linear equations",
+            "apply a range of analytical, graphical and numerical processes to obtain solutions (exact or approximate) to equations",
+            "set up and solve problems involving the distribution of sample means",
+            "construct confidence intervals, and approximate confidence intervals, for sample means"
+          ]
+        },
+        {
+          "knowledge": [
+            "key mathematical content from one or more areas of study related to a given context",
+            "specific and general formulations of concepts used to derive results for analysis within a given context",
+            "the role of examples, counter-examples and general cases in working mathematically",
+            "the role of proof in establishing a general result",
+            "key elements of algorithm design, including sequencing, decision-making and repetition, and representations of the ordered steps for an algorithm including the use of pseudocode",
+            "inferences from analysis and their use to draw valid conclusions related to a given context"
+          ],
+          "skills": [
+            "specify the relevance of key mathematical content from one or more areas of study to the investigation of various questions in a given context",
+            "identify important information, variables, constraints and other key features to the investigation of various questions in a given context",
+            "develop mathematical formulations of specific and general cases used to derive results for analysis within a given context and establish proofs for general case results",
+            "use algorithms, patterns, models and simulation to solve problems related to a given context",
+            "use a variety of techniques to verify results",
+            "make inferences from analysis and use these to draw valid conclusions related to a given context",
+            "communicate results and conclusions using both mathematical expression and everyday language,\\"
           ]
         }
       ]
