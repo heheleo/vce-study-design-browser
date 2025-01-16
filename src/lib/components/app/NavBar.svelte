@@ -35,7 +35,7 @@
 				{#snippet child({ props })}
 					<Button
 						variant="outline"
-						class="justify-between bg-primary/20 hover:bg-primary/40"
+						class="justify-between bg-primary/20 hover:bg-primary/40 border-none"
 						{...props}
 						role="combobox"
 						aria-expanded={open}
