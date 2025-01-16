@@ -67,7 +67,9 @@ const config: Config = {
 				sm: "calc(var(--radius) - 4px)"
 			},
 			fontFamily: {
-				sans: [...fontFamily.sans]
+				sans: [...fontFamily.sans],
+				display: ["Inter", ...fontFamily.sans],
+				default: ["Bricolage Grotesque", ...fontFamily.sans]
 			},
 			keyframes: {
 				"accordion-down": {
