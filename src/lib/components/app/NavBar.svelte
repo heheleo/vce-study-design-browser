@@ -11,8 +11,7 @@
 	import { cn } from '$lib/utils.js';
 	import { getSubjectNames } from '$lib/data';
 
-	const subjectNames = getSubjectNames();
-
+	const subjectNames = $derived($GlobalStateStore.isLoadingData ? [] : getSubjectNames());
 	let open = $state<boolean>(false);
 	let trigger = $state<HTMLButtonElement>(null!);
 
