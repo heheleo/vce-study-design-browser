@@ -13,12 +13,12 @@
 
 	const subjectNames = $derived($GlobalStateStore.isLoadingData ? [] : getSubjectNames());
 	let open = $state<boolean>(false);
-	let trigger = $state<HTMLButtonElement>(null!);
+	let triggerRef = $state<HTMLButtonElement>(null!);
 
 	function closeAndFocusTrigger() {
 		open = false;
 		tick().then(() => {
-			if (trigger) trigger.focus();
+			triggerRef.focus();
 		});
 	}
 </script>
@@ -31,17 +31,19 @@
 		</div>
 
 		<Popover.Root bind:open>
-			<Popover.Trigger bind:el={trigger}>
-				<Button
-					variant="outline"
-					class="justify-between bg-primary/20 hover:bg-primary/40"
-					role="combobox"
-					aria-label="The VCE subject"
-					aria-expanded={open}
-				>
-					{$GlobalStateStore.selectedSubject || 'Select a VCE subject...'}
-					<ChevronsUpDown class="ml-2 size-4 shrink-0 opacity-50" />
-				</Button>
+			<Popover.Trigger bind:ref={triggerRef}>
+				{#snippet child({ props })}
+					<Button
+						variant="outline"
+						class="justify-between bg-primary/20 hover:bg-primary/40"
+						{...props}
+						role="combobox"
+						aria-expanded={open}
+					>
+						{$GlobalStateStore.selectedSubject || 'Select a VCE subject...'}
+						<ChevronsUpDown class="ml-2 size-4 shrink-0 opacity-50" />
+					</Button>
+				{/snippet}
 			</Popover.Trigger>
 			<Popover.Content class="mt-1 w-[200px] p-0">
 				<Command.Root>
