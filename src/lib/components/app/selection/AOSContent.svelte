@@ -1,10 +1,28 @@
 <script lang="ts">
 	import type { UnitAreaOfStudy } from '$lib/types';
+	import renderMathInElement from 'katex/contrib/auto-render';
 
 	const { aosData }: { aosData: UnitAreaOfStudy } = $props();
+
+	$effect(() => {
+		aosData;
+
+		const element = document.getElementById('content');
+		if (element)
+			renderMathInElement(element, {
+				delimiters: [
+					{ left: '$$', right: '$$', display: true },
+					{ left: '$', right: '$', display: false }
+				],
+				errorCallback(msg, err) {
+					console.error(`KaTeX rendering error: ${msg}`);
+					console.error(err);
+				}
+			});
+	});
 </script>
 
-<div class="flex flex-col gap-1 font-serif">
+<div class="flex flex-col gap-1 font-serif" id="content">
 	{#if aosData.points?.length}
 		<div class="text-xl">This area of study covers:</div>
 		{#each aosData.points as point}

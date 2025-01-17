@@ -19,6 +19,7 @@
 		"@sveltejs/adapter-static": "^3.0.6",
 		"@sveltejs/kit": "^2.0.0",
 		"@sveltejs/vite-plugin-svelte": "^4.0.0",
+		"@types/katex": "^0.16.7",
 		"autoprefixer": "^10.4.20",
 		"bits-ui": "1.0.0-next.77",
 		"clsx": "^2.1.1",
@@ -42,6 +43,7 @@
 	},
 	"packageManager": "pnpm@9.15.0+sha512.76e2379760a4328ec4415815bcd6628dee727af3779aaa4c914e3944156c4299921a89f976381ee107d41f12cfa4b66681ca9c718f0668fa0831ed4c6d8ba56c",
 	"dependencies": {
+		"katex": "^0.16.20",
 		"mode-watcher": "^0.5.0"
 	}
 }
