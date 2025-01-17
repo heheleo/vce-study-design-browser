@@ -25,7 +25,10 @@
 		}
 	)}
 	onclick={() => {
-		GlobalStateStore.setSelectedUnit(unit as '1' | '2' | '34');
+		if($GlobalStateStore.selectedUnit !== unit) {
+			GlobalStateStore.setSelectedUnit(unit as '1' | '2' | '34');
+			GlobalStateStore.setSelectedAOS(null);
+		}
 	}}
 >
 	<span class="flex">

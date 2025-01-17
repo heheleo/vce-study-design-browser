@@ -55,7 +55,11 @@
 								<Command.Item
 									value={name}
 									onSelect={() => {
-										GlobalStateStore.setSelectedSubject(name);
+										if($GlobalStateStore.selectedSubject !== name) {
+											GlobalStateStore.setSelectedSubject(name);
+											GlobalStateStore.setSelectedAOS(null);
+											GlobalStateStore.setSelectedUnit("1");
+										}
 										closeAndFocusTrigger();
 									}}
 								>
