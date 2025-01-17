@@ -1,7 +1,11 @@
 <script lang="ts">
+	import * as AlertDialog from '$lib/components/ui/alert-dialog/index.js';
+	import { Button, buttonVariants } from '$lib/components/ui/button/index.js';
+	import { ScrollArea } from '$lib/components/ui/scroll-area/index.js';
 	import { getStudyDesignBySubject } from '$lib/data';
 	import { GlobalStateStore } from '$lib/stores/globalStateStore';
-	import { ScrollArea } from '$lib/components/ui/scroll-area/index.js';
+	import { aosToString, copyContent } from '$lib/utils';
+	import CopyIcon from 'lucide-svelte/icons/clipboard';
 	import AOSCard from './selection/AOSCard.svelte';
 	import AOSContent from './selection/AOSContent.svelte';
 	import UnitCard from './selection/UnitCard.svelte';
@@ -12,7 +16,6 @@
 	const aosData = $derived(
 		unitData.aos.find((aos) => aos.number === $GlobalStateStore.selectedAOS)
 	);
-
 	const contentsMetadataInfo = $derived.by(() => {
 		if (!aosData) return '';
 		if (aosData.points?.length) {
@@ -23,6 +26,8 @@
 
 		return '';
 	});
+
+	let isCopyDialogOpen = $state<boolean>(false);
 </script>
 
 <!-- Unit selection -->
@@ -43,11 +48,30 @@
 
 {#if aosData}
 	<div class="flex h-full min-h-0 flex-1 flex-col gap-4 rounded-md bg-primary/5 p-4">
-		<div class="font-default text-xl">
-			Contents
+		<div class="flex w-full font-default text-xl">
+			<span>Contents</span>
 			<span class="ml-2 text-sm text-primary/50">
 				{contentsMetadataInfo}
 			</span>
+
+			<div class="ml-auto">
+				<Button
+					size="icon"
+					variant="ghost"
+					onclick={() => {
+						copyContent(aosToString(aosData))
+							.then(() => {
+								isCopyDialogOpen = true;
+							})
+							.catch((error) => {
+								console.error('Failed to copy text:');
+								console.error(error);
+							});
+					}}
+				>
+					<CopyIcon />
+				</Button>
+			</div>
 		</div>
 
 		<ScrollArea class="overflow-y-auto rounded-md">
@@ -55,3 +79,20 @@
 		</ScrollArea>
 	</div>
 {/if}
+
+<AlertDialog.Root bind:open={isCopyDialogOpen}>
+	<AlertDialog.Content>
+		<AlertDialog.Header>
+			<AlertDialog.Title>
+				<CopyIcon class="mr-4 size-4" />
+				Copied
+			</AlertDialog.Title>
+			<AlertDialog.Description>
+				I have successfully copied this area of study into your clipboard.
+			</AlertDialog.Description>
+		</AlertDialog.Header>
+		<AlertDialog.Footer>
+			<AlertDialog.Cancel>Close</AlertDialog.Cancel>
+		</AlertDialog.Footer>
+	</AlertDialog.Content>
+</AlertDialog.Root>
