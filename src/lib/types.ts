@@ -1,20 +1,20 @@
 /**
  * Describe the VCE study design for a subject.
  */
-export interface SubjectUnits {
+export type SubjectUnits = {
 	/**
 	 * The unit 1 study design.
 	 */
-	1: UnitStudyDesign;
+	'1': UnitStudyDesign;
 	/**
 	 * The unit 2 study design.
 	 */
-	2: UnitStudyDesign;
+	'2': UnitStudyDesign;
 	/**
 	 * The units 3 and 4 study design.
 	 */
-	34: UnitStudyDesign;
-}
+	'34': UnitStudyDesign;
+};
 
 /**
  * Describes the acheivements that students must demonstrate across unit.
@@ -62,8 +62,27 @@ export interface UnitAreaOfStudy {
 	 */
 	description: string;
 	/**
-	 * The points of the area of study, that students are expected to
-	 * understand.
+	 * The topics of the area of study, that students are expected to
+	 * understand. If it doesnt exist, a points array exists instead.
+	 */
+	topics?: AreaOfStudyTopic[];
+	/**
+	 * The points of the area of study, that students are expected to understand.
+	 * If it doesn't exist, the topics array exists instead.
+	 */
+	points?: string[];
+}
+
+/**
+ * Describes a topic within an area of study.
+ */
+export interface AreaOfStudyTopic {
+	/**
+	 * The name of the topic
+	 */
+	name: string;
+	/**
+	 * The points of the topic that students are expected to understand.
 	 */
 	points: string[];
 }
