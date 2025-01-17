@@ -47,12 +47,14 @@
 </div>
 
 {#if aosData}
-	<div class="flex h-full min-h-0 flex-1 flex-col gap-4 rounded-md bg-primary/5 p-4">
+	<div class="flex h-full min-h-0 flex-1 flex-col gap-2 rounded-md bg-primary/5 p-4">
 		<div class="flex w-full font-default text-xl">
-			<span>Contents</span>
-			<span class="ml-2 text-sm text-primary/50">
-				{contentsMetadataInfo}
-			</span>
+			<div class="flex justify-center items-center">
+				<span>Contents</span>
+				<span class="ml-2 text-sm text-primary/50">
+					{contentsMetadataInfo}
+				</span>
+			</div>
 
 			<div class="ml-auto">
 				<Button
@@ -83,8 +85,8 @@
 <AlertDialog.Root bind:open={isCopyDialogOpen}>
 	<AlertDialog.Content>
 		<AlertDialog.Header>
-			<AlertDialog.Title>
-				<CopyIcon class="mr-4 size-4" />
+			<AlertDialog.Title class="flex items-center">
+				<CopyIcon class="mr-2 size-4" />
 				Copied
 			</AlertDialog.Title>
 			<AlertDialog.Description>
