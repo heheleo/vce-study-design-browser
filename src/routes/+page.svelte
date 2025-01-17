@@ -1,9 +1,11 @@
 <script lang="ts">
 	import NavBar from '$lib/components/app/NavBar.svelte';
+	import Subject from '$lib/components/app/Subject.svelte';
 	import { fetchStudyDesignData, getSubjectNames } from '$lib/data';
 	import { GlobalStateStore } from '$lib/stores/globalStateStore';
 	import { onMount } from 'svelte';
-	
+	import CircleHelpIcon from 'lucide-svelte/icons/circle-help';
+
 	onMount(async () => {
 		// Load the study design data:
 		GlobalStateStore.setLoadingData(true);
@@ -15,10 +17,17 @@
 	});
 </script>
 
-<div class="flex h-screen w-screen flex-col gap-4 p-4">
+<div class="flex h-screen w-screen flex-col gap-4 p-6 min-h-0">
 	<NavBar />
 
-	<div class="bg-primary/20 flex-1 rounded-md">
-		<div></div>
-	</div>
+	{#if $GlobalStateStore.selectedSubject}
+		<div class="flex h-full gap-2 min-h-0">
+			<Subject />
+		</div>
+	{:else}
+		<div class="flex flex-1 items-center justify-center">
+			<CircleHelpIcon class="mr-2 size-4" />
+			Select a subject to get started.
+		</div>
+	{/if}
 </div>
