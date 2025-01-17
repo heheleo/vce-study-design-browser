@@ -35,7 +35,7 @@
 				{#snippet child({ props })}
 					<Button
 						variant="outline"
-						class="justify-between bg-primary/20 hover:bg-primary/40 border-none"
+						class="justify-between border-none bg-primary/20 hover:bg-primary/40"
 						{...props}
 						role="combobox"
 						aria-expanded={open}
@@ -55,10 +55,10 @@
 								<Command.Item
 									value={name}
 									onSelect={() => {
-										if($GlobalStateStore.selectedSubject !== name) {
+										if ($GlobalStateStore.selectedSubject !== name) {
 											GlobalStateStore.setSelectedSubject(name);
 											GlobalStateStore.setSelectedAOS(null);
-											GlobalStateStore.setSelectedUnit("1");
+											GlobalStateStore.setSelectedUnit('1');
 										}
 										closeAndFocusTrigger();
 									}}

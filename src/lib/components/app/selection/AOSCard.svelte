@@ -23,9 +23,9 @@
 	<span class="flex">{aos.name}</span>
 	<span class="flex text-sm text-primary/50">
 		{#if aos.points?.length}
-			{aos.points.length} {plural("point", aos.points.length > 1)}
+			{aos.points.length} {plural('point', aos.points.length > 1)}
 		{:else if aos.topics?.length}
-			{aos.topics.length} {plural("topic", aos.topics.length > 1)}
+			{aos.topics.length} {plural('topic', aos.topics.length > 1)}
 		{/if}
 	</span>
 </button>

@@ -5,7 +5,7 @@ import type { SubjectUnits } from './types';
 
 // The data object that will store all the study design data.
 // A mapping of the subject name to its data
-let data: Record<string, SubjectUnits> = {};
+const data: Record<string, SubjectUnits> = {};
 
 export async function fetchStudyDesignData() {
 	// Fetch the study design data from the server

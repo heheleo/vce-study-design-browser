@@ -17,11 +17,11 @@
 	});
 </script>
 
-<div class="flex h-screen w-screen flex-col gap-4 p-6 min-h-0">
+<div class="flex h-screen min-h-0 w-screen flex-col gap-4 p-6">
 	<NavBar />
 
 	{#if $GlobalStateStore.selectedSubject}
-		<div class="flex h-full gap-2 min-h-0">
+		<div class="flex h-full min-h-0 gap-2">
 			<Subject />
 		</div>
 	{:else}

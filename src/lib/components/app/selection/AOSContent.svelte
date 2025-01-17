@@ -5,7 +5,8 @@
 	const { aosData }: { aosData: UnitAreaOfStudy } = $props();
 
 	$effect(() => {
-		aosData;
+		// eslint-disable-next-line @typescript-eslint/no-unused-vars
+		const _ = aosData;
 
 		const element = document.getElementById('content');
 		if (element)
