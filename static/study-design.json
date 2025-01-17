@@ -112,7 +112,7 @@
         {
           "name": "Algebra, number and structure",
           "number": 1,
-          "description": "In this area of study students cover estimation and the use and application of the representation of generalisations and patterns in number, including formulas and other symbolic expressions, in everyday\\",
+          "description": "In this area of study students cover estimation and the use and application of the representation of generalisations and patterns in number, including formulas and other symbolic expressions, in everyday and routine work contexts.",
           "points": [
             "construction, use and interpretation of formulas and symbolic expressions to describe relationships between variables and to model and represent generalisations and patterns",
             "manipulation of symbolic expressions and solution of equations",
@@ -142,12 +142,12 @@
         {
           "name": "Space and measurement",
           "number": 4,
-          "description": "In this area of study students cover shape and location concepts, and their use and application in a variety\\",
+          "description": "In this area of study students cover shape and location concepts, and their use and application in a variety of domestic, societal, industrial and commercial contexts.",
           "points": [
             "description, representation and properties of simple and composite shapes and objects",
             "two-dimensional plans, models and diagrams of objects",
             "location, maps, directories and digital maps including birds-eye and street views",
-            "routes and itineraries, including location and direction, speeds, distances and estimated travel times,\\"
+            "routes and itineraries, including location and direction, speeds, distances and estimated travel times, for example daily work route and diversions, and itinerary for travel."
           ]
         }
       ],
@@ -203,13 +203,13 @@
             "undertake a range of mathematical tasks, applications and processes to solve practical problems, such as drawing, measuring, counting, estimating, calculating, generalising and modelling",
             "use estimation and other assessment skills to check the outcomes and decide on the appropriate accuracy for the outcome",
             "interpret results and outcomes of the application of mathematics in a context, including how appropriately and accurately they fit the situation and to reflect on and evaluate the mathematics used and the outcomes obtained relative to personal, contextual and real-world implications",
-            "represent, communicate and discuss the results and outcomes of the application of mathematics in\\"
+            "represent, communicate and discuss the results and outcomes of the application of mathematics in a range of contexts"
           ]
         }
       ]
     },
     "34": {
-      "description": "Foundation Mathematics Units 3 and 4 focus on providing students with the mathematical knowledge, skills and understanding to solve problems in real contexts for a range of workplace, personal, further learning, community and global settings relevant to contemporary society. The areas of study for Units 3 and 4 are 'Algebra, number and structure', 'Data analysis, probability and statistics', 'Discrete mathematics' and 'Space and measurement'. All four areas of study are to be completed over the two units, and content equivalent to two areas of study covered in each unit. The selected content for each unit should be developed using contexts present in students' other studies, work and personal or other familiar situations, and in national and international contexts, events and developments.Assumed knowledge and skills for Foundation Mathematics Units 3 and 4 are contained in Foundation Mathematics Units 1 and 2, and will be drawn on, as applicable, in the development of related content from the areas of study, and key knowledge and key skills for the outcomes.In undertaking these units, students are expected to be able to apply techniques, routines and processes involving rational and real arithmetic, sets, lists and tables, contemporary data displays, diagrams, plans, geometric objects and constructions, algebra, algorithms, measures, equations and graphs, with and without the use of technology. They should have facility with relevant mental and by-hand approaches to estimation and computation. The use of numerical, graphical, geometric, symbolic and statistical functionality of technology for teaching and learning mathematics, for working mathematically, and in related assessment,\\is to be incorporated throughout each unit as applicable.",
+      "description": "Foundation Mathematics Units 3 and 4 focus on providing students with the mathematical knowledge, skills and understanding to solve problems in real contexts for a range of workplace, personal, further learning, community and global settings relevant to contemporary society. The areas of study for Units 3 and 4 are 'Algebra, number and structure', 'Data analysis, probability and statistics', 'Discrete mathematics' and 'Space and measurement'. All four areas of study are to be completed over the two units, and content equivalent to two areas of study covered in each unit. The selected content for each unit should be developed using contexts present in students' other studies, work and personal or other familiar situations, and in national and international contexts, events and developments.Assumed knowledge and skills for Foundation Mathematics Units 3 and 4 are contained in Foundation Mathematics Units 1 and 2, and will be drawn on, as applicable, in the development of related content from the areas of study, and key knowledge and key skills for the outcomes.In undertaking these units, students are expected to be able to apply techniques, routines and processes involving rational and real arithmetic, sets, lists and tables, contemporary data displays, diagrams, plans, geometric objects and constructions, algebra, algorithms, measures, equations and graphs, with and without the use of technology. They should have facility with relevant mental and by-hand approaches to estimation and computation. The use of numerical, graphical, geometric, symbolic and statistical functionality of technology for teaching and learning mathematics, for working mathematically, and in related assessment, is to be incorporated throughout each unit as applicable.",
       "aos": [
         {
           "name": "Algebra, number and structure",
@@ -373,7 +373,7 @@
         {
           "name": "Algebra, number and structure",
           "number": 2,
-          "description": "In this area of study students cover the concept of a sequence and its representation by rule, table and\\",
+          "description": "In this area of study students cover the concept of a sequence and its representation by rule, table and graph, arithmetic or geometric sequences as examples of sequences generated by firstorder linear recurrence relations, and simple financial and other applications of these sequences.",
           "topics": [
             {
               "name": "Arithmetic and geometric sequences, first-order linear recurrence relations and financial mathematics",
@@ -383,7 +383,7 @@
                 "use of a first-order linear recurrence relation of the form $u_{0} = a,u_{n + 1} = u_{n} + a$ where $a$ and $d\\ $are constants, to generate the values of an arithmetic sequence",
                 "use of a first-order linear recurrence relation of the form $u_{0} = a,u_{n + 1} = u_{n} + a$ where $a$ and $d\\ $are constants, to model and analyse practical situations involving discrete linear growth or decay such as a simple interest loan or investment, the depreciating value of an asset using the unit cost or flat-rate method",
                 "use of a first-order linear recurrence relation of the form $u_{0} = a,u_{n + 1} = Ru_{n}$ where $a$ and $R\\ $are constants, to generate the values of a geometric sequence",
-                "use of a first-order linear recurrence relation of the form $u_{0} = a,u_{n + 1} = Ru_{n}\\ $where $a$ and $R\\ $are constants,\\",
+                "use of a first-order linear recurrence relation of the form $u_{0} = a,u_{n + 1} = Ru_{n}\\ $where $a$ and $R\\ $are constants, to model growth and decay and analyse practical situations involving geometric sequences such as the reducing height of a bouncing ball, reducing balance depreciation, compound interest loans or investments",
                 "generation of the explicit rule, $u_{0} = a,u_{n + 1} = Ru_{n}$ , of an arithmetic or geometric sequence, its use and evaluation, including various practical and financial contexts",
                 "percentage increase and decrease, mark-ups and discounts, and calculating GST in various financial contexts",
                 "determining the impact of inflation on costs and the spending power of money over time",
@@ -534,7 +534,7 @@
               "name": "Variation",
               "points": [
                 "numerical, graphical and algebraic approaches to direct and inverse variation",
-                "transformation of data to linearity to establish relationships between variables, for example $y$ and $x^{2}$,\\",
+                "transformation of data to linearity to establish relationships between variables, for example $y$ and $x^{2}$, $y$ and $\\frac{1}{x}$ , and $y$ and $\\log_{10}(x)$",
                 "modelling of given non-linear data using the relationships $y = kx^{2} + c$, $y = \\frac{k}{x\\ }\\ ,\\ $where $k > 0,$ and"
               ]
             }
@@ -826,7 +826,7 @@
             "for transition matrices, assuming the next state only relies on the current state with a fixed population",
             "communication and dominance matrices and their application",
             "transition diagrams and transition matrices and regular transition matrices and their identification",
-            "the conventions, terminology, properties and types of graphs; edge, face, loop, vertex, the degree of\\",
+            "the conventions, terminology, properties and types of graphs; edge, face, loop, vertex, the degree of a vertex, isomorphic and connected graphs, and the adjacency matrix, and Euler's formula for planar graphs and its application",
             "the exploring and travelling problem, walks, trails, paths, Eulerian trails and circuits, and Hamiltonian paths and cycles",
             "the minimum connector problem, trees, spanning trees and minimum spanning trees and Prim's algorithm",
             "the flow problem, and the minimum cut/maximum flow theorem",
@@ -898,15 +898,14 @@
           "points": [
             "functions and function notation, domain, co-domain and range, representation of a function by rule, graph and table, inverse functions and their graphs",
             "qualitative interpretation of features of graphs of functions, including those of real data not explicitly represented by a rule, with approximate location of any intercepts, stationary points and points of inflection",
-            "graphs of power functions $f(x) = x^{n}$ for $n \\in \\text{\\{} - 2, - 1,\\frac{1}{3},\\frac{1}{2},1,2,3,4\\text{\\}}$, and transformations of these graphs\\",
-            "graphs of polynomial functions of low degree, and interpretation of key features of these graphs.",
-            ""
+            "graphs of power functions $f(x) = x^{n}$ for $n \\in \\text{\\{} - 2, - 1,\\frac{1}{3},\\frac{1}{2},1,2,3,4\\text{\\}}$, and transformations of these graphs to the form $y = a{(x + b)}^{n} + c$ where $a,b,c \\in R$ and $a\\  \\neq 0$",
+            "graphs of polynomial functions of low degree, and interpretation of key features of these graphs."
           ]
         },
         {
           "name": "Algebra, number and structure",
           "number": 2,
-          "description": "This area of study supports students' work in the 'Functions, relations and graphs', 'Calculus' and 'Data analysis, probability and statistics' areas of study, and content is to be distributed between Units 1 and 2.\\",
+          "description": "This area of study supports students' work in the 'Functions, relations and graphs', 'Calculus' and 'Data analysis, probability and statistics' areas of study, and content is to be distributed between Units 1 and 2. In Unit 1 the focus is on the algebra of polynomial functions of low degree and transformations of the plane.",
           "points": [
             "use of symbolic notation to develop algebraic expressions and represent functions, relations, equations, and systems of simultaneous equations",
             "substitution into, and manipulation of, these expressions",
@@ -943,7 +942,7 @@
       "outcomes": [
         {
           "knowledge": [
-            "the definition of a function, the concepts of domain (including maximal, natural or implied domain),\\",
+            "the definition of a function, the concepts of domain (including maximal, natural or implied domain), codomain and range, notations for specification of the domain, co-domain and range and rule of a function",
             "the key features and properties of power and polynomial functions and their graphs, including any vertical or horizontal asymptotes",
             "the effect of transformations of the plane, dilation, reflection in axes, translation and simple combinations of these transformations, on the graphs of functions",
             "the relation between the graph of a one-to-one function, its inverse function and reflection in the line $y = x$",
@@ -970,7 +969,7 @@
             "draw graphs of polynomial functions of low degree, simple power functions and simple relations that are not functions",
             "describe the effect of transformations on the graphs of relations and functions",
             "sketch the graph of the inverse function of a one-to-one function given its graph",
-            "use graphical, numerical and algebraic approaches to find an approximate value or the exact value\\",
+            "use graphical, numerical and algebraic approaches to find an approximate value or the exact value (as appropriate) for the gradient of a secant or tangent to a curve at a given point",
             "set up probability simulations, and describe the notions of randomness and variability, and their relation to events",
             "apply counting techniques to solve probability problems and calculate probabilities for compound events, by hand in simple cases"
           ]
@@ -989,13 +988,13 @@
             "develop mathematical formulations of specific and general cases used to derive results for analysis within a given context",
             "use a variety of techniques to verify results",
             "make inferences from analysis and use these to draw valid conclusions related to a given context",
-            "communicate results and conclusions using both mathematical expression and everyday language,\\"
+            "communicate results and conclusions using both mathematical expression and everyday language, in particular, the interpretation of mathematics with respect to a context"
           ]
         }
       ]
     },
     "2": {
-      "description": "The focus of Unit 2 is the study of simple transcendental functions, the calculus of polynomial functions and related modelling applications. The areas of study are 'Functions, relations and graphs', 'Algebra, number and structure', 'Calculus' and 'Data analysis, probability and statistics'. At the end of Unit 2, students are expected to have covered the content outlined in each area of study.Material from the areas of study should be organised so that there is a clear progression of skills and knowledge from Unit 1 to Unit 2 in each area of study.In undertaking this unit, students are expected to be able to apply techniques, routines and processes involving rational and real arithmetic, sets, lists and tables, diagrams and geometric constructions, algorithms, algebraic manipulation, equations, graphs, differentiation and anti-differentiation, with and without the use of technology. They should have facility with relevant mental and by-hand approaches to estimation and computation. The use of numerical, graphical, geometric, symbolic and statistical functionality of technology for teaching and learning mathematics, for working mathematically, and in related assessment,\\is to be incorporated throughout the unit as applicable.",
+      "description": "The focus of Unit 2 is the study of simple transcendental functions, the calculus of polynomial functions and related modelling applications. The areas of study are 'Functions, relations and graphs', 'Algebra, number and structure', 'Calculus' and 'Data analysis, probability and statistics'. At the end of Unit 2, students are expected to have covered the content outlined in each area of study.Material from the areas of study should be organised so that there is a clear progression of skills and knowledge from Unit 1 to Unit 2 in each area of study.In undertaking this unit, students are expected to be able to apply techniques, routines and processes involving rational and real arithmetic, sets, lists and tables, diagrams and geometric constructions, algorithms, algebraic manipulation, equations, graphs, differentiation and anti-differentiation, with and without the use of technology. They should have facility with relevant mental and by-hand approaches to estimation and computation. The use of numerical, graphical, geometric, symbolic and statistical functionality of technology for teaching and learning mathematics, for working mathematically, and in related assessment, is to be incorporated throughout the unit as applicable.",
       "aos": [
         {
           "name": "Functions, relations and graphs",
@@ -1018,7 +1017,7 @@
           "number": 2,
           "description": "This area of study supports students' work in the 'Functions, relations and graphs', 'Calculus' and 'Data analysis, probability and statistics' areas of study. In Unit 2 the focus is on the algebra of some simple transcendental functions and transformations of the plane. This area of study provides an opportunity for the consolidation and revision, further development and application of content prescribed in Unit 1, as well as the study of additional algebra material introduced in the other areas of study in Unit 2 as follows:",
           "points": [
-            "use of inverse functions and transformations to solve equations of the form $Af(nx) + c = k$, where $A,n,c,k \\in R$ for $A,n\\  \\neq 0$, and $f$ is sine, cosine, tangent or $a^{x}$, using exact or approximate values on\\",
+            "use of inverse functions and transformations to solve equations of the form $Af(nx) + c = k$, where $A,n,c,k \\in R$ for $A,n\\  \\neq 0$, and $f$ is sine, cosine, tangent or $a^{x}$, using exact or approximate values on a given domain",
             "exponent laws and logarithm laws, including their application to the solution of simple exponential equations",
             "numerical approximation of roots of cubic polynomial functions using the Newton's method algorithm."
           ]
@@ -1111,7 +1110,7 @@
           "description": "In this area of study students cover transformations of the plane and the behaviour of some elementary functions of a single real variable, including key features of their graphs such as axis intercepts, stationary points, points of inflection, domain (including maximal, implied or natural domain), co-domain and range, asymptotic behaviour and symmetry. The behaviour of functions and their graphs is to be explored in a variety of modelling contexts and theoretical investigations.",
           "points": [
             "graphs of polynomial functions and their key features",
-            "graphs of the following functions: power functions, $y = x^{n},n \\in Q$; exponential functions, $y = a^{x},a \\in R^{+}$, in particular $y = e^{x}$; logarithmic functions, $y = \\log_{e}(x)$ and $y = \\log_{10}(x)$; and circular functions,\\",
+            "graphs of the following functions: power functions, $y = x^{n},n \\in Q$; exponential functions, $y = a^{x},a \\in R^{+}$, in particular $y = e^{x}$; logarithmic functions, $y = \\log_{e}(x)$ and $y = \\log_{10}(x)$; and circular functions, $y = \\sin(x),\\ y = cos(x)$ and $y = \\tan(x)$ and their key features",
             "transformation from $y = f(x)$ to $y = Af\\left( n(x + b) \\right)$, where $A,n,b$ and $c \\in R$, $A,n \\neq 0$, and $f$ is one of the functions specified above, and the inverse transformation",
             "the relation between the graph of an original function and the graph of a corresponding transformed function (including families of transformed functions for a single transformation parameter)",
             "graphs of sum, difference, product and composite functions involving functions of the types specified above (not including composite functions that result in reciprocal or quotient functions)",
@@ -1202,7 +1201,7 @@
             "describe the effect of transformations on the graphs of a function or relation",
             "find the rule of an inverse function and give its domain and range",
             "find the rule of a composite function and give its domain and range",
-            "sketch by hand graphs of polynomial functions up to degree 4; simple power functions, $y = x^{n}$ where $n \\in N$, $y = a^{x}$, (using key points $\\left( - 1,\\frac{1}{a} \\right)$, $(0,\\ 1$) and $(1,a)$); $\\log_{e}(x)$; $\\log_{10}(x)$; and simple transformations\\",
+            "sketch by hand graphs of polynomial functions up to degree 4; simple power functions, $y = x^{n}$ where $n \\in N$, $y = a^{x}$, (using key points $\\left( - 1,\\frac{1}{a} \\right)$, $(0,\\ 1$) and $(1,a)$); $\\log_{e}(x)$; $\\log_{10}(x)$; and simple transformations of these",
             "apply a range of analytical, graphical and numerical processes (including the algorithm for Newton's method), as appropriate, to obtain general and specific solutions (exact or approximate) to equations (including literal equations) over a given domain and be able to verify solutions to a particular equation or equations over a given domain",
             "solve by hand equations of the form $\\sin(ax + b) = c$, $\\cos(ax + b) = c$ and$\\tan(ax + b) = c$ with exact value solutions over a given interval",
             "apply algebraic, logarithmic and circular function properties to the simplification of expressions and the solution of equations",
@@ -1210,7 +1209,7 @@
             "find derivatives of polynomial functions and power functions, functions of the form $f(ax + b)$ where $f$ is $x^{n}$, for $n \\in Q$, sine, cosine; tangent, $e^{x}$, or $\\log_{e}(x)$ and simple linear combinations of these, using pattern recognition, or by hand",
             "apply the product, chain and quotient rules for differentiation to simple combinations of functions by hand",
             "find derivatives of basic and more complicated functions and apply differentiation to curve sketching and optimisation problems",
-            "find anti-derivatives of polynomial functions and power functions, functions of the form $f(ax + b)$ where\\",
+            "find anti-derivatives of polynomial functions and power functions, functions of the form $f(ax + b)$ where $f$ is $x^{n}$, for $n \\in Q$, $e^{x}$, sine or cosine, and simple linear combinations of these, using pattern recognition, or by hand",
             "evaluate approximations to the area under a curve using the trapezium rule, find and verify anti-derivatives of specified functions and evaluate definite integrals",
             "apply definite integrals to the evaluation of the area under a curve and between curves over a specified interval",
             "analyse a probability mass function or probability density function and the shape of its graph in terms of the defining parameters for the probability distribution and the mean and variance of the probability distribution",
@@ -1243,7 +1242,7 @@
   },
   "Specialist Mathematics": {
     "1": {
-      "description": "Specialist Mathematics Units 1 and 2 provide a course of study for students who wish to undertake an\\in-depth study of mathematics, with an emphasis on concepts, skills and processes related to mathematical structure, modelling, problem-solving, reasoning and proof. This study has a focus on interest in the discipline of mathematics and investigation of a broad range of applications, as well as development of a sound background for further studies in mathematics and mathematics related fields.Mathematical Methods Units 1 and 2 and Specialist Mathematics Units 1 and 2, taken in conjunction, provide a comprehensive preparation for Specialist Mathematics Units 3 and 4. Study of Specialist Mathematics Units 3 and 4 also assumes concurrent study or previous completion of Mathematical Methods Units 3 and 4.The areas of study for Specialist Mathematics Units 1 and 2 are 'Algebra, number and structure', 'Data analysis, probability and statistics', 'Discrete mathematics', 'Functions, relations and graphs' and 'Space and measurement'.At the end of Unit 1 students are expected to have covered the material in the areas of study: 'Algebra, number and structure' and 'Discrete mathematics'. Concepts from these areas of study will be further developed and used in Unit 2 and also in Units 3 and 4.In undertaking this unit, students are expected to be able to apply techniques, routines and processes involving rational, real and complex arithmetic, sets, lists, tables and matrices, diagrams, graphs, logic gates and geometric constructions, algorithms, algebraic manipulation, recurrence relations, equations and graphs, with and without the use of technology. They are expected to be able to construct proofs and develop and interpret algorithms to solve problems. They should have facility with relevant mental and by-hand approaches to estimation and computation. The use of numerical, graphical, geometric, symbolic and statistical functionality of technology for teaching and learning mathematics, for working mathematically, and in related assessment, is to be incorporated throughout each unit as applicable.",
+      "description": "Specialist Mathematics Units 1 and 2 provide a course of study for students who wish to undertake an indepth study of mathematics, with an emphasis on concepts, skills and processes related to mathematical structure, modelling, problem-solving, reasoning and proof. This study has a focus on interest in the discipline of mathematics and investigation of a broad range of applications, as well as development of a sound background for further studies in mathematics and mathematics related fields.Mathematical Methods Units 1 and 2 and Specialist Mathematics Units 1 and 2, taken in conjunction, provide a comprehensive preparation for Specialist Mathematics Units 3 and 4. Study of Specialist Mathematics Units 3 and 4 also assumes concurrent study or previous completion of Mathematical Methods Units 3 and 4.The areas of study for Specialist Mathematics Units 1 and 2 are 'Algebra, number and structure', 'Data analysis, probability and statistics', 'Discrete mathematics', 'Functions, relations and graphs' and 'Space and measurement'.At the end of Unit 1 students are expected to have covered the material in the areas of study: 'Algebra, number and structure' and 'Discrete mathematics'. Concepts from these areas of study will be further developed and used in Unit 2 and also in Units 3 and 4.In undertaking this unit, students are expected to be able to apply techniques, routines and processes involving rational, real and complex arithmetic, sets, lists, tables and matrices, diagrams, graphs, logic gates and geometric constructions, algorithms, algebraic manipulation, recurrence relations, equations and graphs, with and without the use of technology. They are expected to be able to construct proofs and develop and interpret algorithms to solve problems. They should have facility with relevant mental and by-hand approaches to estimation and computation. The use of numerical, graphical, geometric, symbolic and statistical functionality of technology for teaching and learning mathematics, for working mathematically, and in related assessment, is to be incorporated throughout each unit as applicable.",
       "aos": [
         {
           "name": "Algebra, number and structure",
@@ -1284,7 +1283,7 @@
                 "propositions, connectives, truth values, truth tables and Karnaugh maps",
                 "Boolean algebras",
                 "binary number systems",
-                "tautologies, validity and proof patterns and the application of these to proofs in natural language and\\",
+                "tautologies, validity and proof patterns and the application of these to proofs in natural language and laws and properties of Boolean algebra, the algebra of sets and propositions",
                 "logic gates and circuits, and simplification of circuits",
                 "definition of an algorithm and the fundamental constructs needed to describe algorithms: sequence, decision (selection, choice, if ... then ... blocks) and repetition (iteration and loops)",
                 "construction and implementation of basic algorithms incorporating the fundamental constructs using pseudocode."
@@ -1378,7 +1377,7 @@
             "use algorithms to solve or help solve problems",
             "use proof to establish results rigorously in different contexts",
             "make inferences from analysis and use these to draw valid conclusions related to a given context for investigation",
-            "communicate conclusions using both mathematical expression and everyday language; in particular,\\"
+            "communicate conclusions using both mathematical expression and everyday language; in particular, the interpretation of mathematics with respect to the context for investigation"
           ]
         }
       ]
@@ -1419,7 +1418,7 @@
               "points": [
                 "radian measure, arc length, sectors and segments",
                 "the sine rule and cosine rule applied to two and three-dimensional situations, including problems involving angles between planes",
-                "compound and double angle formulas for sine, cosine and tangent and the identities:\\",
+                "compound and double angle formulas for sine, cosine and tangent and the identities: $\\sec^{2}(x) = 1 + \\tan^{2}(x)\\ $and ${cosec}^{2}(x) = 1 + \\ \\cot^{2}(x)$",
                 "proof and application of identities between ${a\\sin}(x) + bcos\\ (x)\\ $and $r\\sin(x \\pm \\alpha)\\ $or $r\\cos(x \\pm \\alpha)\\ $where $\\alpha$ is in the first quadrant, the identities for products of sines and cosines expressed as sums and differences, and the identities for addition and differences of sines and cosines expressed as products."
               ]
             },
@@ -1534,7 +1533,7 @@
             "use algorithms to solve problems",
             "use proof to establish mathematical results",
             "make inferences from analysis and use these to draw valid conclusions related to a given context for investigation",
-            "communicate conclusions using both mathematical expression and everyday language; in particular,\\"
+            "communicate conclusions using both mathematical expression and everyday language; in particular, the interpretation of mathematics with respect to the context for investigation"
           ]
         }
       ]
@@ -1571,7 +1570,7 @@
           "points": [
             "De Moivre's theorem, proof for integral powers, powers and roots of complex numbers in polar form, and their geometric representation and interpretation",
             "the $n\\ th\\ $ roots of unity and other complex numbers and their location in the complex plane",
-            "factors over *C*, of polynomials; and introduction to the fundamental theorem of algebra, including\\",
+            "factors over *C*, of polynomials; and introduction to the fundamental theorem of algebra, including its application to factorisation of polynomial functions of a single variable over *C*, for example, $z^{8} + 1,\\ z^{2}  i$ or $z^{3} - (2 - i)z^{2} + z - 2 + i$",
             "solution over *C* of polynomial equations by completing the square, use of the quadratic factorisation and the conjugate root theorem."
           ]
         },
@@ -1673,8 +1672,8 @@
             {
               "name": "Distribution of the sample mean",
               "points": [
-                "the concept of the sample mean $\\overline{X}$ as a random variable whose value varies between samples where $X$\\",
-                "simulation of repeated random sampling, from a variety of distributions and a range of sample sizes,\\"
+                "the concept of the sample mean $\\overline{X}$ as a random variable whose value varies between samples where $X$ is a random variable with mean $\\mu$ and the standard deviation $\\sigma$",
+                "simulation of repeated random sampling, from a variety of distributions and a range of sample sizes, to illustrate properties of the distribution of $\\overline{X}\\ $across samples of a fixed size $n$ including its mean $\\mu$ its standard deviation $\\frac{\\sigma}{\\sqrt{n}}$ (where $\\mu$ and $\\sigma$ are the mean and standard deviation of $X$ respectively) and its approximate normality if $n\\ $is large."
               ]
             },
             {
@@ -1754,7 +1753,7 @@
             "use algorithms, patterns, models and simulation to solve problems related to a given context",
             "use a variety of techniques to verify results",
             "make inferences from analysis and use these to draw valid conclusions related to a given context",
-            "communicate results and conclusions using both mathematical expression and everyday language,\\"
+            "communicate results and conclusions using both mathematical expression and everyday language, in particular, the interpretation of mathematics with respect to the context"
           ]
         }
       ]
